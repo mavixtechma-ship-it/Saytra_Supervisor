@@ -1,0 +1,14 @@
+[
+ {
+  "Id": 1,
+  "Name": "Rania Aziz",
+  "Email": "rania.aziz@routewise.example",
+  "PasswordHash": null
+ },
+ {
+  "Id": 2,
+  "Name": "Hossam Lotfy",
+  "Email": "hossam.lotfy@routewise.example",
+  "PasswordHash": null
+ }
+]

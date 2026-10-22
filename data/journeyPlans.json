@@ -1,0 +1,50 @@
+[
+ {
+  "Id": 1,
+  "Name": "Q4 Core Coverage — North",
+  "Status": "Active",
+  "CreatedByManagerId": 1,
+  "CreatedAt": "2026-08-23T09:30:00.000Z",
+  "UpdatedAt": "2026-09-09T14:00:00.000Z"
+ },
+ {
+  "Id": 2,
+  "Name": "Q4 Core Coverage — South",
+  "Status": "Active",
+  "CreatedByManagerId": 1,
+  "CreatedAt": "2026-08-29T09:30:00.000Z",
+  "UpdatedAt": "2026-09-03T14:00:00.000Z"
+ },
+ {
+  "Id": 3,
+  "Name": "Harbor & Lakeside Push",
+  "Status": "Active",
+  "CreatedByManagerId": 2,
+  "CreatedAt": "2026-09-04T09:30:00.000Z",
+  "UpdatedAt": "2026-09-22T14:00:00.000Z"
+ },
+ {
+  "Id": 4,
+  "Name": "East Growth Routes",
+  "Status": "Active",
+  "CreatedByManagerId": 2,
+  "CreatedAt": "2026-09-10T09:30:00.000Z",
+  "UpdatedAt": "2026-09-19T14:00:00.000Z"
+ },
+ {
+  "Id": 5,
+  "Name": "Winter Launch Pilot",
+  "Status": "Draft",
+  "CreatedByManagerId": 2,
+  "CreatedAt": "2026-09-16T09:30:00.000Z",
+  "UpdatedAt": "2026-09-27T14:00:00.000Z"
+ },
+ {
+  "Id": 6,
+  "Name": "Q3 Core Coverage",
+  "Status": "Completed",
+  "CreatedByManagerId": 1,
+  "CreatedAt": "2026-08-03T09:30:00.000Z",
+  "UpdatedAt": "2026-08-20T14:00:00.000Z"
+ }
+]

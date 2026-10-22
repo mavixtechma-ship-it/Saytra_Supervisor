@@ -1,0 +1,1506 @@
+[
+ {
+  "Id": 1,
+  "JourneyPlanId": 1,
+  "SupervisorId": 1,
+  "DayOfWeek": "SAT",
+  "MarketId": 92,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 2,
+  "JourneyPlanId": 1,
+  "SupervisorId": 1,
+  "DayOfWeek": "SAT",
+  "MarketId": 103,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 3,
+  "JourneyPlanId": 1,
+  "SupervisorId": 1,
+  "DayOfWeek": "SUN",
+  "MarketId": 1,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 4,
+  "JourneyPlanId": 1,
+  "SupervisorId": 1,
+  "DayOfWeek": "SUN",
+  "MarketId": 32,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 5,
+  "JourneyPlanId": 1,
+  "SupervisorId": 1,
+  "DayOfWeek": "MON",
+  "MarketId": 52,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 6,
+  "JourneyPlanId": 1,
+  "SupervisorId": 1,
+  "DayOfWeek": "MON",
+  "MarketId": 51,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 7,
+  "JourneyPlanId": 1,
+  "SupervisorId": 1,
+  "DayOfWeek": "TUE",
+  "MarketId": 71,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 8,
+  "JourneyPlanId": 1,
+  "SupervisorId": 1,
+  "DayOfWeek": "TUE",
+  "MarketId": 103,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 9,
+  "JourneyPlanId": 1,
+  "SupervisorId": 1,
+  "DayOfWeek": "TUE",
+  "MarketId": 63,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 10,
+  "JourneyPlanId": 1,
+  "SupervisorId": 1,
+  "DayOfWeek": "WED",
+  "MarketId": 12,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 11,
+  "JourneyPlanId": 1,
+  "SupervisorId": 1,
+  "DayOfWeek": "WED",
+  "MarketId": 41,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 12,
+  "JourneyPlanId": 1,
+  "SupervisorId": 1,
+  "DayOfWeek": "THU",
+  "MarketId": 42,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 13,
+  "JourneyPlanId": 1,
+  "SupervisorId": 1,
+  "DayOfWeek": "THU",
+  "MarketId": 2,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 14,
+  "JourneyPlanId": 1,
+  "SupervisorId": 2,
+  "DayOfWeek": "SAT",
+  "MarketId": 3,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 15,
+  "JourneyPlanId": 1,
+  "SupervisorId": 2,
+  "DayOfWeek": "SAT",
+  "MarketId": 91,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 16,
+  "JourneyPlanId": 1,
+  "SupervisorId": 2,
+  "DayOfWeek": "SAT",
+  "MarketId": 33,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 17,
+  "JourneyPlanId": 1,
+  "SupervisorId": 2,
+  "DayOfWeek": "SUN",
+  "MarketId": 112,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 18,
+  "JourneyPlanId": 1,
+  "SupervisorId": 2,
+  "DayOfWeek": "SUN",
+  "MarketId": 113,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 19,
+  "JourneyPlanId": 1,
+  "SupervisorId": 2,
+  "DayOfWeek": "MON",
+  "MarketId": 13,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 20,
+  "JourneyPlanId": 1,
+  "SupervisorId": 2,
+  "DayOfWeek": "MON",
+  "MarketId": 101,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 21,
+  "JourneyPlanId": 1,
+  "SupervisorId": 2,
+  "DayOfWeek": "MON",
+  "MarketId": 62,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 22,
+  "JourneyPlanId": 1,
+  "SupervisorId": 2,
+  "DayOfWeek": "TUE",
+  "MarketId": 91,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 23,
+  "JourneyPlanId": 1,
+  "SupervisorId": 2,
+  "DayOfWeek": "TUE",
+  "MarketId": 93,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 24,
+  "JourneyPlanId": 1,
+  "SupervisorId": 2,
+  "DayOfWeek": "WED",
+  "MarketId": 112,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 25,
+  "JourneyPlanId": 1,
+  "SupervisorId": 2,
+  "DayOfWeek": "WED",
+  "MarketId": 21,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 26,
+  "JourneyPlanId": 1,
+  "SupervisorId": 2,
+  "DayOfWeek": "WED",
+  "MarketId": 113,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 27,
+  "JourneyPlanId": 1,
+  "SupervisorId": 2,
+  "DayOfWeek": "WED",
+  "MarketId": 73,
+  "OrderInDay": 4
+ },
+ {
+  "Id": 28,
+  "JourneyPlanId": 1,
+  "SupervisorId": 2,
+  "DayOfWeek": "THU",
+  "MarketId": 102,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 29,
+  "JourneyPlanId": 1,
+  "SupervisorId": 2,
+  "DayOfWeek": "THU",
+  "MarketId": 62,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 30,
+  "JourneyPlanId": 2,
+  "SupervisorId": 3,
+  "DayOfWeek": "SAT",
+  "MarketId": 85,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 31,
+  "JourneyPlanId": 2,
+  "SupervisorId": 3,
+  "DayOfWeek": "SAT",
+  "MarketId": 5,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 32,
+  "JourneyPlanId": 2,
+  "SupervisorId": 3,
+  "DayOfWeek": "SUN",
+  "MarketId": 24,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 33,
+  "JourneyPlanId": 2,
+  "SupervisorId": 3,
+  "DayOfWeek": "SUN",
+  "MarketId": 44,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 34,
+  "JourneyPlanId": 2,
+  "SupervisorId": 3,
+  "DayOfWeek": "MON",
+  "MarketId": 105,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 35,
+  "JourneyPlanId": 2,
+  "SupervisorId": 3,
+  "DayOfWeek": "MON",
+  "MarketId": 36,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 36,
+  "JourneyPlanId": 2,
+  "SupervisorId": 3,
+  "DayOfWeek": "TUE",
+  "MarketId": 4,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 37,
+  "JourneyPlanId": 2,
+  "SupervisorId": 3,
+  "DayOfWeek": "TUE",
+  "MarketId": 75,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 38,
+  "JourneyPlanId": 2,
+  "SupervisorId": 3,
+  "DayOfWeek": "WED",
+  "MarketId": 35,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 39,
+  "JourneyPlanId": 2,
+  "SupervisorId": 3,
+  "DayOfWeek": "WED",
+  "MarketId": 76,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 40,
+  "JourneyPlanId": 2,
+  "SupervisorId": 3,
+  "DayOfWeek": "THU",
+  "MarketId": 16,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 41,
+  "JourneyPlanId": 2,
+  "SupervisorId": 3,
+  "DayOfWeek": "THU",
+  "MarketId": 25,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 42,
+  "JourneyPlanId": 2,
+  "SupervisorId": 4,
+  "DayOfWeek": "SAT",
+  "MarketId": 34,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 43,
+  "JourneyPlanId": 2,
+  "SupervisorId": 4,
+  "DayOfWeek": "SAT",
+  "MarketId": 65,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 44,
+  "JourneyPlanId": 2,
+  "SupervisorId": 4,
+  "DayOfWeek": "SUN",
+  "MarketId": 54,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 45,
+  "JourneyPlanId": 2,
+  "SupervisorId": 4,
+  "DayOfWeek": "SUN",
+  "MarketId": 84,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 46,
+  "JourneyPlanId": 2,
+  "SupervisorId": 4,
+  "DayOfWeek": "SUN",
+  "MarketId": 74,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 47,
+  "JourneyPlanId": 2,
+  "SupervisorId": 4,
+  "DayOfWeek": "MON",
+  "MarketId": 6,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 48,
+  "JourneyPlanId": 2,
+  "SupervisorId": 4,
+  "DayOfWeek": "MON",
+  "MarketId": 46,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 49,
+  "JourneyPlanId": 2,
+  "SupervisorId": 4,
+  "DayOfWeek": "TUE",
+  "MarketId": 34,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 50,
+  "JourneyPlanId": 2,
+  "SupervisorId": 4,
+  "DayOfWeek": "TUE",
+  "MarketId": 104,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 51,
+  "JourneyPlanId": 2,
+  "SupervisorId": 4,
+  "DayOfWeek": "TUE",
+  "MarketId": 65,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 52,
+  "JourneyPlanId": 2,
+  "SupervisorId": 4,
+  "DayOfWeek": "TUE",
+  "MarketId": 94,
+  "OrderInDay": 4
+ },
+ {
+  "Id": 53,
+  "JourneyPlanId": 2,
+  "SupervisorId": 4,
+  "DayOfWeek": "WED",
+  "MarketId": 84,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 54,
+  "JourneyPlanId": 2,
+  "SupervisorId": 4,
+  "DayOfWeek": "WED",
+  "MarketId": 74,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 55,
+  "JourneyPlanId": 2,
+  "SupervisorId": 4,
+  "DayOfWeek": "WED",
+  "MarketId": 95,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 56,
+  "JourneyPlanId": 2,
+  "SupervisorId": 4,
+  "DayOfWeek": "THU",
+  "MarketId": 106,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 57,
+  "JourneyPlanId": 2,
+  "SupervisorId": 4,
+  "DayOfWeek": "THU",
+  "MarketId": 114,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 58,
+  "JourneyPlanId": 3,
+  "SupervisorId": 5,
+  "DayOfWeek": "SAT",
+  "MarketId": 96,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 59,
+  "JourneyPlanId": 3,
+  "SupervisorId": 5,
+  "DayOfWeek": "SAT",
+  "MarketId": 98,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 60,
+  "JourneyPlanId": 3,
+  "SupervisorId": 5,
+  "DayOfWeek": "SAT",
+  "MarketId": 18,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 61,
+  "JourneyPlanId": 3,
+  "SupervisorId": 5,
+  "DayOfWeek": "SUN",
+  "MarketId": 97,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 62,
+  "JourneyPlanId": 3,
+  "SupervisorId": 5,
+  "DayOfWeek": "SUN",
+  "MarketId": 47,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 63,
+  "JourneyPlanId": 3,
+  "SupervisorId": 5,
+  "DayOfWeek": "MON",
+  "MarketId": 78,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 64,
+  "JourneyPlanId": 3,
+  "SupervisorId": 5,
+  "DayOfWeek": "MON",
+  "MarketId": 108,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 65,
+  "JourneyPlanId": 3,
+  "SupervisorId": 5,
+  "DayOfWeek": "TUE",
+  "MarketId": 7,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 66,
+  "JourneyPlanId": 3,
+  "SupervisorId": 5,
+  "DayOfWeek": "TUE",
+  "MarketId": 98,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 67,
+  "JourneyPlanId": 3,
+  "SupervisorId": 5,
+  "DayOfWeek": "TUE",
+  "MarketId": 18,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 68,
+  "JourneyPlanId": 3,
+  "SupervisorId": 5,
+  "DayOfWeek": "WED",
+  "MarketId": 36,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 69,
+  "JourneyPlanId": 3,
+  "SupervisorId": 5,
+  "DayOfWeek": "WED",
+  "MarketId": 56,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 70,
+  "JourneyPlanId": 3,
+  "SupervisorId": 5,
+  "DayOfWeek": "THU",
+  "MarketId": 78,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 71,
+  "JourneyPlanId": 3,
+  "SupervisorId": 5,
+  "DayOfWeek": "THU",
+  "MarketId": 77,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 72,
+  "JourneyPlanId": 3,
+  "SupervisorId": 5,
+  "DayOfWeek": "THU",
+  "MarketId": 27,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 73,
+  "JourneyPlanId": 3,
+  "SupervisorId": 6,
+  "DayOfWeek": "SAT",
+  "MarketId": 17,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 74,
+  "JourneyPlanId": 3,
+  "SupervisorId": 6,
+  "DayOfWeek": "SAT",
+  "MarketId": 118,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 75,
+  "JourneyPlanId": 3,
+  "SupervisorId": 6,
+  "DayOfWeek": "SUN",
+  "MarketId": 88,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 76,
+  "JourneyPlanId": 3,
+  "SupervisorId": 6,
+  "DayOfWeek": "SUN",
+  "MarketId": 67,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 77,
+  "JourneyPlanId": 3,
+  "SupervisorId": 6,
+  "DayOfWeek": "SUN",
+  "MarketId": 58,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 78,
+  "JourneyPlanId": 3,
+  "SupervisorId": 6,
+  "DayOfWeek": "MON",
+  "MarketId": 6,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 79,
+  "JourneyPlanId": 3,
+  "SupervisorId": 6,
+  "DayOfWeek": "MON",
+  "MarketId": 86,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 80,
+  "JourneyPlanId": 3,
+  "SupervisorId": 6,
+  "DayOfWeek": "TUE",
+  "MarketId": 26,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 81,
+  "JourneyPlanId": 3,
+  "SupervisorId": 6,
+  "DayOfWeek": "TUE",
+  "MarketId": 48,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 82,
+  "JourneyPlanId": 3,
+  "SupervisorId": 6,
+  "DayOfWeek": "WED",
+  "MarketId": 67,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 83,
+  "JourneyPlanId": 3,
+  "SupervisorId": 6,
+  "DayOfWeek": "WED",
+  "MarketId": 58,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 84,
+  "JourneyPlanId": 3,
+  "SupervisorId": 6,
+  "DayOfWeek": "WED",
+  "MarketId": 66,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 85,
+  "JourneyPlanId": 3,
+  "SupervisorId": 6,
+  "DayOfWeek": "THU",
+  "MarketId": 107,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 86,
+  "JourneyPlanId": 3,
+  "SupervisorId": 6,
+  "DayOfWeek": "THU",
+  "MarketId": 86,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 87,
+  "JourneyPlanId": 3,
+  "SupervisorId": 6,
+  "DayOfWeek": "THU",
+  "MarketId": 38,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 88,
+  "JourneyPlanId": 4,
+  "SupervisorId": 7,
+  "DayOfWeek": "SAT",
+  "MarketId": 18,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 89,
+  "JourneyPlanId": 4,
+  "SupervisorId": 7,
+  "DayOfWeek": "SAT",
+  "MarketId": 40,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 90,
+  "JourneyPlanId": 4,
+  "SupervisorId": 7,
+  "DayOfWeek": "SUN",
+  "MarketId": 108,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 91,
+  "JourneyPlanId": 4,
+  "SupervisorId": 7,
+  "DayOfWeek": "SUN",
+  "MarketId": 48,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 92,
+  "JourneyPlanId": 4,
+  "SupervisorId": 7,
+  "DayOfWeek": "MON",
+  "MarketId": 20,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 93,
+  "JourneyPlanId": 4,
+  "SupervisorId": 7,
+  "DayOfWeek": "MON",
+  "MarketId": 69,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 94,
+  "JourneyPlanId": 4,
+  "SupervisorId": 7,
+  "DayOfWeek": "TUE",
+  "MarketId": 18,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 95,
+  "JourneyPlanId": 4,
+  "SupervisorId": 7,
+  "DayOfWeek": "TUE",
+  "MarketId": 119,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 96,
+  "JourneyPlanId": 4,
+  "SupervisorId": 7,
+  "DayOfWeek": "TUE",
+  "MarketId": 79,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 97,
+  "JourneyPlanId": 4,
+  "SupervisorId": 7,
+  "DayOfWeek": "WED",
+  "MarketId": 109,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 98,
+  "JourneyPlanId": 4,
+  "SupervisorId": 7,
+  "DayOfWeek": "WED",
+  "MarketId": 8,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 99,
+  "JourneyPlanId": 4,
+  "SupervisorId": 7,
+  "DayOfWeek": "THU",
+  "MarketId": 99,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 100,
+  "JourneyPlanId": 4,
+  "SupervisorId": 7,
+  "DayOfWeek": "THU",
+  "MarketId": 100,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 101,
+  "JourneyPlanId": 4,
+  "SupervisorId": 8,
+  "DayOfWeek": "SAT",
+  "MarketId": 89,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 102,
+  "JourneyPlanId": 4,
+  "SupervisorId": 8,
+  "DayOfWeek": "SAT",
+  "MarketId": 58,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 103,
+  "JourneyPlanId": 4,
+  "SupervisorId": 8,
+  "DayOfWeek": "SUN",
+  "MarketId": 9,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 104,
+  "JourneyPlanId": 4,
+  "SupervisorId": 8,
+  "DayOfWeek": "SUN",
+  "MarketId": 90,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 105,
+  "JourneyPlanId": 4,
+  "SupervisorId": 8,
+  "DayOfWeek": "MON",
+  "MarketId": 118,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 106,
+  "JourneyPlanId": 4,
+  "SupervisorId": 8,
+  "DayOfWeek": "MON",
+  "MarketId": 50,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 107,
+  "JourneyPlanId": 4,
+  "SupervisorId": 8,
+  "DayOfWeek": "MON",
+  "MarketId": 78,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 108,
+  "JourneyPlanId": 4,
+  "SupervisorId": 8,
+  "DayOfWeek": "TUE",
+  "MarketId": 89,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 109,
+  "JourneyPlanId": 4,
+  "SupervisorId": 8,
+  "DayOfWeek": "TUE",
+  "MarketId": 49,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 110,
+  "JourneyPlanId": 4,
+  "SupervisorId": 8,
+  "DayOfWeek": "TUE",
+  "MarketId": 58,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 111,
+  "JourneyPlanId": 4,
+  "SupervisorId": 8,
+  "DayOfWeek": "TUE",
+  "MarketId": 39,
+  "OrderInDay": 4
+ },
+ {
+  "Id": 112,
+  "JourneyPlanId": 4,
+  "SupervisorId": 8,
+  "DayOfWeek": "WED",
+  "MarketId": 9,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 113,
+  "JourneyPlanId": 4,
+  "SupervisorId": 8,
+  "DayOfWeek": "WED",
+  "MarketId": 70,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 114,
+  "JourneyPlanId": 4,
+  "SupervisorId": 8,
+  "DayOfWeek": "WED",
+  "MarketId": 68,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 115,
+  "JourneyPlanId": 4,
+  "SupervisorId": 8,
+  "DayOfWeek": "THU",
+  "MarketId": 50,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 116,
+  "JourneyPlanId": 4,
+  "SupervisorId": 8,
+  "DayOfWeek": "THU",
+  "MarketId": 78,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 117,
+  "JourneyPlanId": 4,
+  "SupervisorId": 8,
+  "DayOfWeek": "THU",
+  "MarketId": 59,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 118,
+  "JourneyPlanId": 5,
+  "SupervisorId": 2,
+  "DayOfWeek": "SAT",
+  "MarketId": 83,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 119,
+  "JourneyPlanId": 5,
+  "SupervisorId": 2,
+  "DayOfWeek": "SAT",
+  "MarketId": 23,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 120,
+  "JourneyPlanId": 5,
+  "SupervisorId": 2,
+  "DayOfWeek": "SUN",
+  "MarketId": 103,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 121,
+  "JourneyPlanId": 5,
+  "SupervisorId": 2,
+  "DayOfWeek": "SUN",
+  "MarketId": 79,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 122,
+  "JourneyPlanId": 5,
+  "SupervisorId": 2,
+  "DayOfWeek": "MON",
+  "MarketId": 63,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 123,
+  "JourneyPlanId": 5,
+  "SupervisorId": 2,
+  "DayOfWeek": "MON",
+  "MarketId": 109,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 124,
+  "JourneyPlanId": 5,
+  "SupervisorId": 2,
+  "DayOfWeek": "TUE",
+  "MarketId": 3,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 125,
+  "JourneyPlanId": 5,
+  "SupervisorId": 2,
+  "DayOfWeek": "TUE",
+  "MarketId": 69,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 126,
+  "JourneyPlanId": 5,
+  "SupervisorId": 2,
+  "DayOfWeek": "WED",
+  "MarketId": 103,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 127,
+  "JourneyPlanId": 5,
+  "SupervisorId": 2,
+  "DayOfWeek": "WED",
+  "MarketId": 73,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 128,
+  "JourneyPlanId": 5,
+  "SupervisorId": 2,
+  "DayOfWeek": "WED",
+  "MarketId": 49,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 129,
+  "JourneyPlanId": 5,
+  "SupervisorId": 2,
+  "DayOfWeek": "THU",
+  "MarketId": 53,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 130,
+  "JourneyPlanId": 5,
+  "SupervisorId": 2,
+  "DayOfWeek": "THU",
+  "MarketId": 119,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 131,
+  "JourneyPlanId": 5,
+  "SupervisorId": 7,
+  "DayOfWeek": "SAT",
+  "MarketId": 113,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 132,
+  "JourneyPlanId": 5,
+  "SupervisorId": 7,
+  "DayOfWeek": "SAT",
+  "MarketId": 19,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 133,
+  "JourneyPlanId": 5,
+  "SupervisorId": 7,
+  "DayOfWeek": "SAT",
+  "MarketId": 9,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 134,
+  "JourneyPlanId": 5,
+  "SupervisorId": 7,
+  "DayOfWeek": "SUN",
+  "MarketId": 39,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 135,
+  "JourneyPlanId": 5,
+  "SupervisorId": 7,
+  "DayOfWeek": "SUN",
+  "MarketId": 13,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 136,
+  "JourneyPlanId": 5,
+  "SupervisorId": 7,
+  "DayOfWeek": "MON",
+  "MarketId": 29,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 137,
+  "JourneyPlanId": 5,
+  "SupervisorId": 7,
+  "DayOfWeek": "MON",
+  "MarketId": 89,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 138,
+  "JourneyPlanId": 5,
+  "SupervisorId": 7,
+  "DayOfWeek": "TUE",
+  "MarketId": 113,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 139,
+  "JourneyPlanId": 5,
+  "SupervisorId": 7,
+  "DayOfWeek": "TUE",
+  "MarketId": 33,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 140,
+  "JourneyPlanId": 5,
+  "SupervisorId": 7,
+  "DayOfWeek": "TUE",
+  "MarketId": 9,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 141,
+  "JourneyPlanId": 5,
+  "SupervisorId": 7,
+  "DayOfWeek": "WED",
+  "MarketId": 99,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 142,
+  "JourneyPlanId": 5,
+  "SupervisorId": 7,
+  "DayOfWeek": "WED",
+  "MarketId": 43,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 143,
+  "JourneyPlanId": 5,
+  "SupervisorId": 7,
+  "DayOfWeek": "THU",
+  "MarketId": 93,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 144,
+  "JourneyPlanId": 5,
+  "SupervisorId": 7,
+  "DayOfWeek": "THU",
+  "MarketId": 89,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 145,
+  "JourneyPlanId": 5,
+  "SupervisorId": 7,
+  "DayOfWeek": "THU",
+  "MarketId": 59,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 146,
+  "JourneyPlanId": 6,
+  "SupervisorId": 1,
+  "DayOfWeek": "SAT",
+  "MarketId": 37,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 147,
+  "JourneyPlanId": 6,
+  "SupervisorId": 1,
+  "DayOfWeek": "SAT",
+  "MarketId": 104,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 148,
+  "JourneyPlanId": 6,
+  "SupervisorId": 1,
+  "DayOfWeek": "SUN",
+  "MarketId": 44,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 149,
+  "JourneyPlanId": 6,
+  "SupervisorId": 1,
+  "DayOfWeek": "SUN",
+  "MarketId": 91,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 150,
+  "JourneyPlanId": 6,
+  "SupervisorId": 1,
+  "DayOfWeek": "MON",
+  "MarketId": 111,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 151,
+  "JourneyPlanId": 6,
+  "SupervisorId": 1,
+  "DayOfWeek": "MON",
+  "MarketId": 27,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 152,
+  "JourneyPlanId": 6,
+  "SupervisorId": 1,
+  "DayOfWeek": "MON",
+  "MarketId": 84,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 153,
+  "JourneyPlanId": 6,
+  "SupervisorId": 1,
+  "DayOfWeek": "TUE",
+  "MarketId": 101,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 154,
+  "JourneyPlanId": 6,
+  "SupervisorId": 1,
+  "DayOfWeek": "TUE",
+  "MarketId": 41,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 155,
+  "JourneyPlanId": 6,
+  "SupervisorId": 1,
+  "DayOfWeek": "WED",
+  "MarketId": 61,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 156,
+  "JourneyPlanId": 6,
+  "SupervisorId": 1,
+  "DayOfWeek": "WED",
+  "MarketId": 91,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 157,
+  "JourneyPlanId": 6,
+  "SupervisorId": 1,
+  "DayOfWeek": "WED",
+  "MarketId": 11,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 158,
+  "JourneyPlanId": 6,
+  "SupervisorId": 1,
+  "DayOfWeek": "THU",
+  "MarketId": 71,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 159,
+  "JourneyPlanId": 6,
+  "SupervisorId": 1,
+  "DayOfWeek": "THU",
+  "MarketId": 84,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 160,
+  "JourneyPlanId": 6,
+  "SupervisorId": 3,
+  "DayOfWeek": "SAT",
+  "MarketId": 21,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 161,
+  "JourneyPlanId": 6,
+  "SupervisorId": 3,
+  "DayOfWeek": "SAT",
+  "MarketId": 4,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 162,
+  "JourneyPlanId": 6,
+  "SupervisorId": 3,
+  "DayOfWeek": "SUN",
+  "MarketId": 34,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 163,
+  "JourneyPlanId": 6,
+  "SupervisorId": 3,
+  "DayOfWeek": "SUN",
+  "MarketId": 17,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 164,
+  "JourneyPlanId": 6,
+  "SupervisorId": 3,
+  "DayOfWeek": "MON",
+  "MarketId": 94,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 165,
+  "JourneyPlanId": 6,
+  "SupervisorId": 3,
+  "DayOfWeek": "MON",
+  "MarketId": 87,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 166,
+  "JourneyPlanId": 6,
+  "SupervisorId": 3,
+  "DayOfWeek": "TUE",
+  "MarketId": 31,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 167,
+  "JourneyPlanId": 6,
+  "SupervisorId": 3,
+  "DayOfWeek": "TUE",
+  "MarketId": 107,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 168,
+  "JourneyPlanId": 6,
+  "SupervisorId": 3,
+  "DayOfWeek": "WED",
+  "MarketId": 34,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 169,
+  "JourneyPlanId": 6,
+  "SupervisorId": 3,
+  "DayOfWeek": "WED",
+  "MarketId": 47,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 170,
+  "JourneyPlanId": 6,
+  "SupervisorId": 3,
+  "DayOfWeek": "WED",
+  "MarketId": 77,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 171,
+  "JourneyPlanId": 6,
+  "SupervisorId": 3,
+  "DayOfWeek": "THU",
+  "MarketId": 114,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 172,
+  "JourneyPlanId": 6,
+  "SupervisorId": 3,
+  "DayOfWeek": "THU",
+  "MarketId": 51,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 173,
+  "JourneyPlanId": 6,
+  "SupervisorId": 5,
+  "DayOfWeek": "SAT",
+  "MarketId": 67,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 174,
+  "JourneyPlanId": 6,
+  "SupervisorId": 5,
+  "DayOfWeek": "SAT",
+  "MarketId": 81,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 175,
+  "JourneyPlanId": 6,
+  "SupervisorId": 5,
+  "DayOfWeek": "SUN",
+  "MarketId": 1,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 176,
+  "JourneyPlanId": 6,
+  "SupervisorId": 5,
+  "DayOfWeek": "SUN",
+  "MarketId": 24,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 177,
+  "JourneyPlanId": 6,
+  "SupervisorId": 5,
+  "DayOfWeek": "SUN",
+  "MarketId": 74,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 178,
+  "JourneyPlanId": 6,
+  "SupervisorId": 5,
+  "DayOfWeek": "MON",
+  "MarketId": 57,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 179,
+  "JourneyPlanId": 6,
+  "SupervisorId": 5,
+  "DayOfWeek": "MON",
+  "MarketId": 54,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 180,
+  "JourneyPlanId": 6,
+  "SupervisorId": 5,
+  "DayOfWeek": "MON",
+  "MarketId": 64,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 181,
+  "JourneyPlanId": 6,
+  "SupervisorId": 5,
+  "DayOfWeek": "TUE",
+  "MarketId": 67,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 182,
+  "JourneyPlanId": 6,
+  "SupervisorId": 5,
+  "DayOfWeek": "TUE",
+  "MarketId": 117,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 183,
+  "JourneyPlanId": 6,
+  "SupervisorId": 5,
+  "DayOfWeek": "TUE",
+  "MarketId": 81,
+  "OrderInDay": 3
+ },
+ {
+  "Id": 184,
+  "JourneyPlanId": 6,
+  "SupervisorId": 5,
+  "DayOfWeek": "TUE",
+  "MarketId": 97,
+  "OrderInDay": 4
+ },
+ {
+  "Id": 185,
+  "JourneyPlanId": 6,
+  "SupervisorId": 5,
+  "DayOfWeek": "WED",
+  "MarketId": 14,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 186,
+  "JourneyPlanId": 6,
+  "SupervisorId": 5,
+  "DayOfWeek": "WED",
+  "MarketId": 74,
+  "OrderInDay": 2
+ },
+ {
+  "Id": 187,
+  "JourneyPlanId": 6,
+  "SupervisorId": 5,
+  "DayOfWeek": "THU",
+  "MarketId": 7,
+  "OrderInDay": 1
+ },
+ {
+  "Id": 188,
+  "JourneyPlanId": 6,
+  "SupervisorId": 5,
+  "DayOfWeek": "THU",
+  "MarketId": 64,
+  "OrderInDay": 2
+ }
+]

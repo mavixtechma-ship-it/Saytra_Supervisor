@@ -1,0 +1,9263 @@
+[
+ {
+  "Id": 1,
+  "VisitLogId": 1,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 2,
+  "VisitLogId": 1,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 3,
+  "VisitLogId": 1,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 4,
+  "VisitLogId": 1,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 5,
+  "VisitLogId": 2,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 6,
+  "VisitLogId": 2,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 7,
+  "VisitLogId": 2,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 8,
+  "VisitLogId": 2,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 9,
+  "VisitLogId": 3,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 10,
+  "VisitLogId": 3,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 11,
+  "VisitLogId": 3,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 12,
+  "VisitLogId": 3,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 13,
+  "VisitLogId": 4,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 14,
+  "VisitLogId": 4,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 15,
+  "VisitLogId": 4,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 16,
+  "VisitLogId": 4,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 17,
+  "VisitLogId": 5,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 18,
+  "VisitLogId": 5,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 19,
+  "VisitLogId": 5,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 20,
+  "VisitLogId": 5,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 21,
+  "VisitLogId": 7,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 22,
+  "VisitLogId": 7,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 23,
+  "VisitLogId": 7,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 24,
+  "VisitLogId": 7,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 25,
+  "VisitLogId": 8,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 26,
+  "VisitLogId": 8,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 27,
+  "VisitLogId": 8,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 28,
+  "VisitLogId": 9,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 29,
+  "VisitLogId": 9,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 30,
+  "VisitLogId": 9,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 31,
+  "VisitLogId": 10,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 32,
+  "VisitLogId": 10,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 33,
+  "VisitLogId": 10,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 34,
+  "VisitLogId": 11,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 35,
+  "VisitLogId": 11,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 36,
+  "VisitLogId": 11,
+  "KPITaskId": 6,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 37,
+  "VisitLogId": 12,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 38,
+  "VisitLogId": 12,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 39,
+  "VisitLogId": 12,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 40,
+  "VisitLogId": 13,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 41,
+  "VisitLogId": 13,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 42,
+  "VisitLogId": 13,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 43,
+  "VisitLogId": 13,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 44,
+  "VisitLogId": 14,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 45,
+  "VisitLogId": 14,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 46,
+  "VisitLogId": 14,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 47,
+  "VisitLogId": 14,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 48,
+  "VisitLogId": 15,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 49,
+  "VisitLogId": 15,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 50,
+  "VisitLogId": 15,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 51,
+  "VisitLogId": 15,
+  "KPITaskId": 8,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 52,
+  "VisitLogId": 17,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 53,
+  "VisitLogId": 17,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 54,
+  "VisitLogId": 17,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 55,
+  "VisitLogId": 17,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 56,
+  "VisitLogId": 20,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 57,
+  "VisitLogId": 20,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 58,
+  "VisitLogId": 20,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 59,
+  "VisitLogId": 20,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 60,
+  "VisitLogId": 21,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 61,
+  "VisitLogId": 21,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 62,
+  "VisitLogId": 21,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 63,
+  "VisitLogId": 21,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 64,
+  "VisitLogId": 24,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 65,
+  "VisitLogId": 24,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 66,
+  "VisitLogId": 24,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 67,
+  "VisitLogId": 25,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 68,
+  "VisitLogId": 25,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 69,
+  "VisitLogId": 25,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 70,
+  "VisitLogId": 26,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 71,
+  "VisitLogId": 26,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 72,
+  "VisitLogId": 26,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 73,
+  "VisitLogId": 27,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 74,
+  "VisitLogId": 27,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 75,
+  "VisitLogId": 27,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 76,
+  "VisitLogId": 27,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 77,
+  "VisitLogId": 28,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 78,
+  "VisitLogId": 28,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 79,
+  "VisitLogId": 28,
+  "KPITaskId": 6,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 80,
+  "VisitLogId": 28,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 81,
+  "VisitLogId": 29,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 82,
+  "VisitLogId": 29,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 83,
+  "VisitLogId": 29,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 84,
+  "VisitLogId": 29,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 85,
+  "VisitLogId": 30,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 86,
+  "VisitLogId": 30,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 87,
+  "VisitLogId": 30,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 88,
+  "VisitLogId": 30,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 89,
+  "VisitLogId": 31,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 90,
+  "VisitLogId": 31,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 91,
+  "VisitLogId": 31,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 92,
+  "VisitLogId": 31,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 93,
+  "VisitLogId": 32,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 94,
+  "VisitLogId": 32,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 95,
+  "VisitLogId": 32,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 96,
+  "VisitLogId": 32,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 97,
+  "VisitLogId": 33,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 98,
+  "VisitLogId": 33,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 99,
+  "VisitLogId": 33,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 100,
+  "VisitLogId": 33,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 101,
+  "VisitLogId": 34,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 102,
+  "VisitLogId": 34,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 103,
+  "VisitLogId": 34,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 104,
+  "VisitLogId": 34,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 105,
+  "VisitLogId": 35,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 106,
+  "VisitLogId": 35,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 107,
+  "VisitLogId": 35,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 108,
+  "VisitLogId": 35,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 109,
+  "VisitLogId": 36,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 110,
+  "VisitLogId": 36,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 111,
+  "VisitLogId": 36,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 112,
+  "VisitLogId": 37,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 113,
+  "VisitLogId": 37,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 114,
+  "VisitLogId": 37,
+  "KPITaskId": 6,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 115,
+  "VisitLogId": 38,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 116,
+  "VisitLogId": 38,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 117,
+  "VisitLogId": 38,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 118,
+  "VisitLogId": 38,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 119,
+  "VisitLogId": 39,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 120,
+  "VisitLogId": 39,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 121,
+  "VisitLogId": 39,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 122,
+  "VisitLogId": 39,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 123,
+  "VisitLogId": 43,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 124,
+  "VisitLogId": 43,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 125,
+  "VisitLogId": 43,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 126,
+  "VisitLogId": 43,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 127,
+  "VisitLogId": 44,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 128,
+  "VisitLogId": 44,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 129,
+  "VisitLogId": 44,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 130,
+  "VisitLogId": 44,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 131,
+  "VisitLogId": 45,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 132,
+  "VisitLogId": 45,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 133,
+  "VisitLogId": 45,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 134,
+  "VisitLogId": 45,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 135,
+  "VisitLogId": 46,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 136,
+  "VisitLogId": 46,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 137,
+  "VisitLogId": 46,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 138,
+  "VisitLogId": 46,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 139,
+  "VisitLogId": 47,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 140,
+  "VisitLogId": 47,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 141,
+  "VisitLogId": 47,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 142,
+  "VisitLogId": 47,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 143,
+  "VisitLogId": 48,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 144,
+  "VisitLogId": 48,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 145,
+  "VisitLogId": 48,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 146,
+  "VisitLogId": 48,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 147,
+  "VisitLogId": 49,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 148,
+  "VisitLogId": 49,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 149,
+  "VisitLogId": 49,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 150,
+  "VisitLogId": 49,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 151,
+  "VisitLogId": 51,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 152,
+  "VisitLogId": 51,
+  "KPITaskId": 3,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 153,
+  "VisitLogId": 51,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 154,
+  "VisitLogId": 51,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 155,
+  "VisitLogId": 55,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 156,
+  "VisitLogId": 55,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 157,
+  "VisitLogId": 55,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 158,
+  "VisitLogId": 56,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 159,
+  "VisitLogId": 56,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 160,
+  "VisitLogId": 56,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 161,
+  "VisitLogId": 57,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 162,
+  "VisitLogId": 57,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 163,
+  "VisitLogId": 57,
+  "KPITaskId": 6,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 164,
+  "VisitLogId": 58,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 165,
+  "VisitLogId": 58,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 166,
+  "VisitLogId": 58,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 167,
+  "VisitLogId": 59,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 168,
+  "VisitLogId": 59,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 169,
+  "VisitLogId": 59,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 170,
+  "VisitLogId": 59,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 171,
+  "VisitLogId": 60,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 172,
+  "VisitLogId": 60,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 173,
+  "VisitLogId": 60,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 174,
+  "VisitLogId": 60,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 175,
+  "VisitLogId": 61,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 176,
+  "VisitLogId": 61,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 177,
+  "VisitLogId": 61,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 178,
+  "VisitLogId": 61,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 179,
+  "VisitLogId": 62,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 180,
+  "VisitLogId": 62,
+  "KPITaskId": 4,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 181,
+  "VisitLogId": 62,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 182,
+  "VisitLogId": 62,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 183,
+  "VisitLogId": 63,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 184,
+  "VisitLogId": 63,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 185,
+  "VisitLogId": 63,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 186,
+  "VisitLogId": 63,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 187,
+  "VisitLogId": 66,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 188,
+  "VisitLogId": 66,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 189,
+  "VisitLogId": 66,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 190,
+  "VisitLogId": 66,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 191,
+  "VisitLogId": 67,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 192,
+  "VisitLogId": 67,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 193,
+  "VisitLogId": 67,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 194,
+  "VisitLogId": 67,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 195,
+  "VisitLogId": 68,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 196,
+  "VisitLogId": 68,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 197,
+  "VisitLogId": 68,
+  "KPITaskId": 3,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 198,
+  "VisitLogId": 68,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 199,
+  "VisitLogId": 69,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 200,
+  "VisitLogId": 69,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 201,
+  "VisitLogId": 69,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 202,
+  "VisitLogId": 69,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 203,
+  "VisitLogId": 70,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 204,
+  "VisitLogId": 70,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 205,
+  "VisitLogId": 70,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 206,
+  "VisitLogId": 70,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 207,
+  "VisitLogId": 71,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 208,
+  "VisitLogId": 71,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 209,
+  "VisitLogId": 71,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 210,
+  "VisitLogId": 71,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 211,
+  "VisitLogId": 72,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 212,
+  "VisitLogId": 72,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 213,
+  "VisitLogId": 72,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 214,
+  "VisitLogId": 72,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 215,
+  "VisitLogId": 73,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 216,
+  "VisitLogId": 73,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 217,
+  "VisitLogId": 73,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 218,
+  "VisitLogId": 73,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 219,
+  "VisitLogId": 74,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 220,
+  "VisitLogId": 74,
+  "KPITaskId": 3,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 221,
+  "VisitLogId": 74,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 222,
+  "VisitLogId": 74,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 223,
+  "VisitLogId": 75,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 224,
+  "VisitLogId": 75,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 225,
+  "VisitLogId": 75,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 226,
+  "VisitLogId": 77,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 227,
+  "VisitLogId": 77,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 228,
+  "VisitLogId": 77,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 229,
+  "VisitLogId": 79,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 230,
+  "VisitLogId": 79,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 231,
+  "VisitLogId": 79,
+  "KPITaskId": 6,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 232,
+  "VisitLogId": 80,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 233,
+  "VisitLogId": 80,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 234,
+  "VisitLogId": 80,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 235,
+  "VisitLogId": 80,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 236,
+  "VisitLogId": 81,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 237,
+  "VisitLogId": 81,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 238,
+  "VisitLogId": 81,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 239,
+  "VisitLogId": 81,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 240,
+  "VisitLogId": 83,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 241,
+  "VisitLogId": 83,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 242,
+  "VisitLogId": 83,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 243,
+  "VisitLogId": 83,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 244,
+  "VisitLogId": 84,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 245,
+  "VisitLogId": 84,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 246,
+  "VisitLogId": 84,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 247,
+  "VisitLogId": 84,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 248,
+  "VisitLogId": 85,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 249,
+  "VisitLogId": 85,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 250,
+  "VisitLogId": 85,
+  "KPITaskId": 3,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 251,
+  "VisitLogId": 85,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 252,
+  "VisitLogId": 86,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 253,
+  "VisitLogId": 86,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 254,
+  "VisitLogId": 86,
+  "KPITaskId": 3,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 255,
+  "VisitLogId": 86,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 256,
+  "VisitLogId": 87,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 257,
+  "VisitLogId": 87,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 258,
+  "VisitLogId": 87,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 259,
+  "VisitLogId": 87,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 260,
+  "VisitLogId": 88,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 261,
+  "VisitLogId": 88,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 262,
+  "VisitLogId": 88,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 263,
+  "VisitLogId": 88,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 264,
+  "VisitLogId": 89,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 265,
+  "VisitLogId": 89,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 266,
+  "VisitLogId": 89,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 267,
+  "VisitLogId": 89,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 268,
+  "VisitLogId": 90,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 269,
+  "VisitLogId": 90,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 270,
+  "VisitLogId": 90,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 271,
+  "VisitLogId": 90,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 272,
+  "VisitLogId": 91,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 273,
+  "VisitLogId": 91,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 274,
+  "VisitLogId": 91,
+  "KPITaskId": 6,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 275,
+  "VisitLogId": 92,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 276,
+  "VisitLogId": 92,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 277,
+  "VisitLogId": 92,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 278,
+  "VisitLogId": 93,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 279,
+  "VisitLogId": 93,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 280,
+  "VisitLogId": 93,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 281,
+  "VisitLogId": 94,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 282,
+  "VisitLogId": 94,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 283,
+  "VisitLogId": 94,
+  "KPITaskId": 6,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 284,
+  "VisitLogId": 97,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 285,
+  "VisitLogId": 97,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 286,
+  "VisitLogId": 97,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 287,
+  "VisitLogId": 97,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 288,
+  "VisitLogId": 98,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 289,
+  "VisitLogId": 98,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 290,
+  "VisitLogId": 98,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 291,
+  "VisitLogId": 98,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 292,
+  "VisitLogId": 99,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 293,
+  "VisitLogId": 99,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 294,
+  "VisitLogId": 99,
+  "KPITaskId": 6,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 295,
+  "VisitLogId": 99,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 296,
+  "VisitLogId": 101,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 297,
+  "VisitLogId": 101,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 298,
+  "VisitLogId": 101,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 299,
+  "VisitLogId": 101,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 300,
+  "VisitLogId": 103,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 301,
+  "VisitLogId": 103,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 302,
+  "VisitLogId": 103,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 303,
+  "VisitLogId": 103,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 304,
+  "VisitLogId": 104,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 305,
+  "VisitLogId": 104,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 306,
+  "VisitLogId": 104,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 307,
+  "VisitLogId": 104,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 308,
+  "VisitLogId": 105,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 309,
+  "VisitLogId": 105,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 310,
+  "VisitLogId": 105,
+  "KPITaskId": 3,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 311,
+  "VisitLogId": 105,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 312,
+  "VisitLogId": 107,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 313,
+  "VisitLogId": 107,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 314,
+  "VisitLogId": 107,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 315,
+  "VisitLogId": 107,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 316,
+  "VisitLogId": 108,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 317,
+  "VisitLogId": 108,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 318,
+  "VisitLogId": 108,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 319,
+  "VisitLogId": 108,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 320,
+  "VisitLogId": 110,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 321,
+  "VisitLogId": 110,
+  "KPITaskId": 3,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 322,
+  "VisitLogId": 110,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 323,
+  "VisitLogId": 110,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 324,
+  "VisitLogId": 111,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 325,
+  "VisitLogId": 111,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 326,
+  "VisitLogId": 111,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 327,
+  "VisitLogId": 112,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 328,
+  "VisitLogId": 112,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 329,
+  "VisitLogId": 112,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 330,
+  "VisitLogId": 113,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 331,
+  "VisitLogId": 113,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 332,
+  "VisitLogId": 113,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 333,
+  "VisitLogId": 115,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 334,
+  "VisitLogId": 115,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 335,
+  "VisitLogId": 115,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 336,
+  "VisitLogId": 116,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 337,
+  "VisitLogId": 116,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 338,
+  "VisitLogId": 116,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 339,
+  "VisitLogId": 116,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 340,
+  "VisitLogId": 117,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 341,
+  "VisitLogId": 117,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 342,
+  "VisitLogId": 117,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 343,
+  "VisitLogId": 117,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 344,
+  "VisitLogId": 118,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 345,
+  "VisitLogId": 118,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 346,
+  "VisitLogId": 118,
+  "KPITaskId": 6,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 347,
+  "VisitLogId": 118,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 348,
+  "VisitLogId": 119,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 349,
+  "VisitLogId": 119,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 350,
+  "VisitLogId": 119,
+  "KPITaskId": 6,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 351,
+  "VisitLogId": 119,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 352,
+  "VisitLogId": 120,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 353,
+  "VisitLogId": 120,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 354,
+  "VisitLogId": 120,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 355,
+  "VisitLogId": 120,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 356,
+  "VisitLogId": 121,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 357,
+  "VisitLogId": 121,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 358,
+  "VisitLogId": 121,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 359,
+  "VisitLogId": 121,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 360,
+  "VisitLogId": 122,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 361,
+  "VisitLogId": 122,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 362,
+  "VisitLogId": 122,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 363,
+  "VisitLogId": 122,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 364,
+  "VisitLogId": 123,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 365,
+  "VisitLogId": 123,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 366,
+  "VisitLogId": 123,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 367,
+  "VisitLogId": 123,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 368,
+  "VisitLogId": 124,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 369,
+  "VisitLogId": 124,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 370,
+  "VisitLogId": 124,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 371,
+  "VisitLogId": 124,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 372,
+  "VisitLogId": 125,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 373,
+  "VisitLogId": 125,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 374,
+  "VisitLogId": 125,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 375,
+  "VisitLogId": 125,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 376,
+  "VisitLogId": 127,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 377,
+  "VisitLogId": 127,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 378,
+  "VisitLogId": 127,
+  "KPITaskId": 4,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 379,
+  "VisitLogId": 127,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 380,
+  "VisitLogId": 128,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 381,
+  "VisitLogId": 128,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 382,
+  "VisitLogId": 128,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 383,
+  "VisitLogId": 128,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 384,
+  "VisitLogId": 129,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 385,
+  "VisitLogId": 129,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 386,
+  "VisitLogId": 129,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 387,
+  "VisitLogId": 131,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 388,
+  "VisitLogId": 131,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 389,
+  "VisitLogId": 131,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 390,
+  "VisitLogId": 132,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 391,
+  "VisitLogId": 132,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 392,
+  "VisitLogId": 132,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 393,
+  "VisitLogId": 133,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 394,
+  "VisitLogId": 133,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 395,
+  "VisitLogId": 133,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 396,
+  "VisitLogId": 134,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 397,
+  "VisitLogId": 134,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 398,
+  "VisitLogId": 134,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 399,
+  "VisitLogId": 134,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 400,
+  "VisitLogId": 135,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 401,
+  "VisitLogId": 135,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 402,
+  "VisitLogId": 135,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 403,
+  "VisitLogId": 135,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 404,
+  "VisitLogId": 137,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 405,
+  "VisitLogId": 137,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 406,
+  "VisitLogId": 137,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 407,
+  "VisitLogId": 137,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 408,
+  "VisitLogId": 138,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 409,
+  "VisitLogId": 138,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 410,
+  "VisitLogId": 138,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 411,
+  "VisitLogId": 138,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 412,
+  "VisitLogId": 139,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 413,
+  "VisitLogId": 139,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 414,
+  "VisitLogId": 139,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 415,
+  "VisitLogId": 139,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 416,
+  "VisitLogId": 140,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 417,
+  "VisitLogId": 140,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 418,
+  "VisitLogId": 140,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 419,
+  "VisitLogId": 140,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 420,
+  "VisitLogId": 142,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 421,
+  "VisitLogId": 142,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 422,
+  "VisitLogId": 142,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 423,
+  "VisitLogId": 142,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 424,
+  "VisitLogId": 143,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 425,
+  "VisitLogId": 143,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 426,
+  "VisitLogId": 143,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 427,
+  "VisitLogId": 143,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 428,
+  "VisitLogId": 144,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 429,
+  "VisitLogId": 144,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 430,
+  "VisitLogId": 144,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 431,
+  "VisitLogId": 144,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 432,
+  "VisitLogId": 145,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 433,
+  "VisitLogId": 145,
+  "KPITaskId": 3,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 434,
+  "VisitLogId": 145,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 435,
+  "VisitLogId": 145,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 436,
+  "VisitLogId": 146,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 437,
+  "VisitLogId": 146,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 438,
+  "VisitLogId": 146,
+  "KPITaskId": 4,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 439,
+  "VisitLogId": 146,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 440,
+  "VisitLogId": 147,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 441,
+  "VisitLogId": 147,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 442,
+  "VisitLogId": 147,
+  "KPITaskId": 6,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 443,
+  "VisitLogId": 148,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 444,
+  "VisitLogId": 148,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 445,
+  "VisitLogId": 148,
+  "KPITaskId": 6,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 446,
+  "VisitLogId": 149,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 447,
+  "VisitLogId": 149,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 448,
+  "VisitLogId": 149,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 449,
+  "VisitLogId": 150,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 450,
+  "VisitLogId": 150,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 451,
+  "VisitLogId": 150,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 452,
+  "VisitLogId": 151,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 453,
+  "VisitLogId": 151,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 454,
+  "VisitLogId": 151,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 455,
+  "VisitLogId": 151,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 456,
+  "VisitLogId": 152,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 457,
+  "VisitLogId": 152,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 458,
+  "VisitLogId": 152,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 459,
+  "VisitLogId": 152,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 460,
+  "VisitLogId": 153,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 461,
+  "VisitLogId": 153,
+  "KPITaskId": 4,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 462,
+  "VisitLogId": 153,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 463,
+  "VisitLogId": 153,
+  "KPITaskId": 8,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 464,
+  "VisitLogId": 154,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 465,
+  "VisitLogId": 154,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 466,
+  "VisitLogId": 154,
+  "KPITaskId": 6,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 467,
+  "VisitLogId": 154,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 468,
+  "VisitLogId": 155,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 469,
+  "VisitLogId": 155,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 470,
+  "VisitLogId": 155,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 471,
+  "VisitLogId": 155,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 472,
+  "VisitLogId": 156,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 473,
+  "VisitLogId": 156,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 474,
+  "VisitLogId": 156,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 475,
+  "VisitLogId": 156,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 476,
+  "VisitLogId": 157,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 477,
+  "VisitLogId": 157,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 478,
+  "VisitLogId": 157,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 479,
+  "VisitLogId": 157,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 480,
+  "VisitLogId": 158,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 481,
+  "VisitLogId": 158,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 482,
+  "VisitLogId": 158,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 483,
+  "VisitLogId": 158,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 484,
+  "VisitLogId": 159,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 485,
+  "VisitLogId": 159,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 486,
+  "VisitLogId": 159,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 487,
+  "VisitLogId": 159,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 488,
+  "VisitLogId": 160,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 489,
+  "VisitLogId": 160,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 490,
+  "VisitLogId": 160,
+  "KPITaskId": 3,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 491,
+  "VisitLogId": 160,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 492,
+  "VisitLogId": 161,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 493,
+  "VisitLogId": 161,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 494,
+  "VisitLogId": 161,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 495,
+  "VisitLogId": 161,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 496,
+  "VisitLogId": 162,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 497,
+  "VisitLogId": 162,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 498,
+  "VisitLogId": 162,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 499,
+  "VisitLogId": 162,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 500,
+  "VisitLogId": 163,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 501,
+  "VisitLogId": 163,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 502,
+  "VisitLogId": 163,
+  "KPITaskId": 4,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 503,
+  "VisitLogId": 163,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 504,
+  "VisitLogId": 165,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 505,
+  "VisitLogId": 165,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 506,
+  "VisitLogId": 165,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 507,
+  "VisitLogId": 165,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 508,
+  "VisitLogId": 167,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 509,
+  "VisitLogId": 167,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 510,
+  "VisitLogId": 167,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 511,
+  "VisitLogId": 168,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 512,
+  "VisitLogId": 168,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 513,
+  "VisitLogId": 168,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 514,
+  "VisitLogId": 169,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 515,
+  "VisitLogId": 169,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 516,
+  "VisitLogId": 169,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 517,
+  "VisitLogId": 170,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 518,
+  "VisitLogId": 170,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 519,
+  "VisitLogId": 170,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 520,
+  "VisitLogId": 171,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 521,
+  "VisitLogId": 171,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 522,
+  "VisitLogId": 171,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 523,
+  "VisitLogId": 172,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 524,
+  "VisitLogId": 172,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 525,
+  "VisitLogId": 172,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 526,
+  "VisitLogId": 172,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 527,
+  "VisitLogId": 173,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 528,
+  "VisitLogId": 173,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 529,
+  "VisitLogId": 173,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 530,
+  "VisitLogId": 173,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 531,
+  "VisitLogId": 174,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 532,
+  "VisitLogId": 174,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 533,
+  "VisitLogId": 174,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 534,
+  "VisitLogId": 174,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 535,
+  "VisitLogId": 175,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 536,
+  "VisitLogId": 175,
+  "KPITaskId": 4,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 537,
+  "VisitLogId": 175,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 538,
+  "VisitLogId": 175,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 539,
+  "VisitLogId": 176,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 540,
+  "VisitLogId": 176,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 541,
+  "VisitLogId": 176,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 542,
+  "VisitLogId": 176,
+  "KPITaskId": 8,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 543,
+  "VisitLogId": 177,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 544,
+  "VisitLogId": 177,
+  "KPITaskId": 4,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 545,
+  "VisitLogId": 177,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 546,
+  "VisitLogId": 177,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 547,
+  "VisitLogId": 178,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 548,
+  "VisitLogId": 178,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 549,
+  "VisitLogId": 178,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 550,
+  "VisitLogId": 178,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 551,
+  "VisitLogId": 179,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 552,
+  "VisitLogId": 179,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 553,
+  "VisitLogId": 179,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 554,
+  "VisitLogId": 179,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 555,
+  "VisitLogId": 180,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 556,
+  "VisitLogId": 180,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 557,
+  "VisitLogId": 180,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 558,
+  "VisitLogId": 180,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 559,
+  "VisitLogId": 181,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 560,
+  "VisitLogId": 181,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 561,
+  "VisitLogId": 181,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 562,
+  "VisitLogId": 181,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 563,
+  "VisitLogId": 182,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 564,
+  "VisitLogId": 182,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 565,
+  "VisitLogId": 182,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 566,
+  "VisitLogId": 182,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 567,
+  "VisitLogId": 183,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 568,
+  "VisitLogId": 183,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 569,
+  "VisitLogId": 183,
+  "KPITaskId": 3,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 570,
+  "VisitLogId": 183,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 571,
+  "VisitLogId": 185,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 572,
+  "VisitLogId": 185,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 573,
+  "VisitLogId": 185,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 574,
+  "VisitLogId": 185,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 575,
+  "VisitLogId": 186,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 576,
+  "VisitLogId": 186,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 577,
+  "VisitLogId": 186,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 578,
+  "VisitLogId": 186,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 579,
+  "VisitLogId": 187,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 580,
+  "VisitLogId": 187,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 581,
+  "VisitLogId": 187,
+  "KPITaskId": 4,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 582,
+  "VisitLogId": 187,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 583,
+  "VisitLogId": 188,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 584,
+  "VisitLogId": 188,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 585,
+  "VisitLogId": 188,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 586,
+  "VisitLogId": 188,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 587,
+  "VisitLogId": 189,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 588,
+  "VisitLogId": 189,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 589,
+  "VisitLogId": 189,
+  "KPITaskId": 4,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 590,
+  "VisitLogId": 189,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 591,
+  "VisitLogId": 190,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 592,
+  "VisitLogId": 190,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 593,
+  "VisitLogId": 190,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 594,
+  "VisitLogId": 192,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 595,
+  "VisitLogId": 192,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 596,
+  "VisitLogId": 192,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 597,
+  "VisitLogId": 193,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 598,
+  "VisitLogId": 193,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 599,
+  "VisitLogId": 193,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 600,
+  "VisitLogId": 194,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 601,
+  "VisitLogId": 194,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 602,
+  "VisitLogId": 194,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 603,
+  "VisitLogId": 195,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 604,
+  "VisitLogId": 195,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 605,
+  "VisitLogId": 195,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 606,
+  "VisitLogId": 195,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 607,
+  "VisitLogId": 196,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 608,
+  "VisitLogId": 196,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 609,
+  "VisitLogId": 196,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 610,
+  "VisitLogId": 196,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 611,
+  "VisitLogId": 199,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 612,
+  "VisitLogId": 199,
+  "KPITaskId": 4,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 613,
+  "VisitLogId": 199,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 614,
+  "VisitLogId": 199,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 615,
+  "VisitLogId": 200,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 616,
+  "VisitLogId": 200,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 617,
+  "VisitLogId": 200,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 618,
+  "VisitLogId": 200,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 619,
+  "VisitLogId": 201,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 620,
+  "VisitLogId": 201,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 621,
+  "VisitLogId": 201,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 622,
+  "VisitLogId": 201,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 623,
+  "VisitLogId": 202,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 624,
+  "VisitLogId": 202,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 625,
+  "VisitLogId": 202,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 626,
+  "VisitLogId": 202,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 627,
+  "VisitLogId": 203,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 628,
+  "VisitLogId": 203,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 629,
+  "VisitLogId": 203,
+  "KPITaskId": 3,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 630,
+  "VisitLogId": 203,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 631,
+  "VisitLogId": 204,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 632,
+  "VisitLogId": 204,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 633,
+  "VisitLogId": 204,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 634,
+  "VisitLogId": 204,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 635,
+  "VisitLogId": 205,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 636,
+  "VisitLogId": 205,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 637,
+  "VisitLogId": 205,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 638,
+  "VisitLogId": 205,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 639,
+  "VisitLogId": 206,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 640,
+  "VisitLogId": 206,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 641,
+  "VisitLogId": 206,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 642,
+  "VisitLogId": 206,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 643,
+  "VisitLogId": 210,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 644,
+  "VisitLogId": 210,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 645,
+  "VisitLogId": 210,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 646,
+  "VisitLogId": 211,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 647,
+  "VisitLogId": 211,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 648,
+  "VisitLogId": 211,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 649,
+  "VisitLogId": 212,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 650,
+  "VisitLogId": 212,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 651,
+  "VisitLogId": 212,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 652,
+  "VisitLogId": 213,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 653,
+  "VisitLogId": 213,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 654,
+  "VisitLogId": 213,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 655,
+  "VisitLogId": 214,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 656,
+  "VisitLogId": 214,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 657,
+  "VisitLogId": 214,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 658,
+  "VisitLogId": 214,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 659,
+  "VisitLogId": 215,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 660,
+  "VisitLogId": 215,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 661,
+  "VisitLogId": 215,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 662,
+  "VisitLogId": 215,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 663,
+  "VisitLogId": 217,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 664,
+  "VisitLogId": 217,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 665,
+  "VisitLogId": 217,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 666,
+  "VisitLogId": 217,
+  "KPITaskId": 8,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 667,
+  "VisitLogId": 218,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 668,
+  "VisitLogId": 218,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 669,
+  "VisitLogId": 218,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 670,
+  "VisitLogId": 218,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 671,
+  "VisitLogId": 219,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 672,
+  "VisitLogId": 219,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 673,
+  "VisitLogId": 219,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 674,
+  "VisitLogId": 219,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 675,
+  "VisitLogId": 220,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 676,
+  "VisitLogId": 220,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 677,
+  "VisitLogId": 220,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 678,
+  "VisitLogId": 220,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 679,
+  "VisitLogId": 221,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 680,
+  "VisitLogId": 221,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 681,
+  "VisitLogId": 221,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 682,
+  "VisitLogId": 221,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 683,
+  "VisitLogId": 222,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 684,
+  "VisitLogId": 222,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 685,
+  "VisitLogId": 222,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 686,
+  "VisitLogId": 222,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 687,
+  "VisitLogId": 223,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 688,
+  "VisitLogId": 223,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 689,
+  "VisitLogId": 223,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 690,
+  "VisitLogId": 223,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 691,
+  "VisitLogId": 224,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 692,
+  "VisitLogId": 224,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 693,
+  "VisitLogId": 224,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 694,
+  "VisitLogId": 224,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 695,
+  "VisitLogId": 225,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 696,
+  "VisitLogId": 225,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 697,
+  "VisitLogId": 225,
+  "KPITaskId": 4,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 698,
+  "VisitLogId": 225,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 699,
+  "VisitLogId": 226,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 700,
+  "VisitLogId": 226,
+  "KPITaskId": 5,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 701,
+  "VisitLogId": 226,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 702,
+  "VisitLogId": 227,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 703,
+  "VisitLogId": 227,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 704,
+  "VisitLogId": 227,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 705,
+  "VisitLogId": 229,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 706,
+  "VisitLogId": 229,
+  "KPITaskId": 5,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 707,
+  "VisitLogId": 229,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 708,
+  "VisitLogId": 230,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 709,
+  "VisitLogId": 230,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 710,
+  "VisitLogId": 230,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 711,
+  "VisitLogId": 231,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 712,
+  "VisitLogId": 231,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 713,
+  "VisitLogId": 231,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 714,
+  "VisitLogId": 231,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 715,
+  "VisitLogId": 232,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 716,
+  "VisitLogId": 232,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 717,
+  "VisitLogId": 232,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 718,
+  "VisitLogId": 232,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 719,
+  "VisitLogId": 233,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 720,
+  "VisitLogId": 233,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 721,
+  "VisitLogId": 233,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 722,
+  "VisitLogId": 233,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 723,
+  "VisitLogId": 234,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 724,
+  "VisitLogId": 234,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 725,
+  "VisitLogId": 234,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 726,
+  "VisitLogId": 234,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 727,
+  "VisitLogId": 235,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 728,
+  "VisitLogId": 235,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 729,
+  "VisitLogId": 235,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 730,
+  "VisitLogId": 235,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 731,
+  "VisitLogId": 236,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 732,
+  "VisitLogId": 236,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 733,
+  "VisitLogId": 236,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 734,
+  "VisitLogId": 236,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 735,
+  "VisitLogId": 237,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 736,
+  "VisitLogId": 237,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 737,
+  "VisitLogId": 237,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 738,
+  "VisitLogId": 237,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 739,
+  "VisitLogId": 238,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 740,
+  "VisitLogId": 238,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 741,
+  "VisitLogId": 238,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 742,
+  "VisitLogId": 238,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 743,
+  "VisitLogId": 240,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 744,
+  "VisitLogId": 240,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 745,
+  "VisitLogId": 240,
+  "KPITaskId": 4,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 746,
+  "VisitLogId": 240,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 747,
+  "VisitLogId": 241,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 748,
+  "VisitLogId": 241,
+  "KPITaskId": 3,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 749,
+  "VisitLogId": 241,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 750,
+  "VisitLogId": 241,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 751,
+  "VisitLogId": 243,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 752,
+  "VisitLogId": 243,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 753,
+  "VisitLogId": 243,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 754,
+  "VisitLogId": 244,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 755,
+  "VisitLogId": 244,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 756,
+  "VisitLogId": 244,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 757,
+  "VisitLogId": 245,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 758,
+  "VisitLogId": 245,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 759,
+  "VisitLogId": 245,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 760,
+  "VisitLogId": 245,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 761,
+  "VisitLogId": 246,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 762,
+  "VisitLogId": 246,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 763,
+  "VisitLogId": 246,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 764,
+  "VisitLogId": 246,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 765,
+  "VisitLogId": 247,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 766,
+  "VisitLogId": 247,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 767,
+  "VisitLogId": 247,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 768,
+  "VisitLogId": 247,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 769,
+  "VisitLogId": 248,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 770,
+  "VisitLogId": 248,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 771,
+  "VisitLogId": 248,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 772,
+  "VisitLogId": 248,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 773,
+  "VisitLogId": 251,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 774,
+  "VisitLogId": 251,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 775,
+  "VisitLogId": 251,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 776,
+  "VisitLogId": 251,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 777,
+  "VisitLogId": 252,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 778,
+  "VisitLogId": 252,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 779,
+  "VisitLogId": 252,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 780,
+  "VisitLogId": 252,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 781,
+  "VisitLogId": 253,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 782,
+  "VisitLogId": 253,
+  "KPITaskId": 3,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 783,
+  "VisitLogId": 253,
+  "KPITaskId": 4,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 784,
+  "VisitLogId": 253,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 785,
+  "VisitLogId": 254,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 786,
+  "VisitLogId": 254,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 787,
+  "VisitLogId": 254,
+  "KPITaskId": 6,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 788,
+  "VisitLogId": 255,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 789,
+  "VisitLogId": 255,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 790,
+  "VisitLogId": 255,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 791,
+  "VisitLogId": 256,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 792,
+  "VisitLogId": 256,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 793,
+  "VisitLogId": 256,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 794,
+  "VisitLogId": 256,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 795,
+  "VisitLogId": 257,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 796,
+  "VisitLogId": 257,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 797,
+  "VisitLogId": 257,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 798,
+  "VisitLogId": 257,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 799,
+  "VisitLogId": 258,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 800,
+  "VisitLogId": 258,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 801,
+  "VisitLogId": 258,
+  "KPITaskId": 6,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 802,
+  "VisitLogId": 258,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 803,
+  "VisitLogId": 259,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 804,
+  "VisitLogId": 259,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 805,
+  "VisitLogId": 259,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 806,
+  "VisitLogId": 259,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 807,
+  "VisitLogId": 260,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 808,
+  "VisitLogId": 260,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 809,
+  "VisitLogId": 260,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 810,
+  "VisitLogId": 260,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 811,
+  "VisitLogId": 261,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 812,
+  "VisitLogId": 261,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 813,
+  "VisitLogId": 261,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 814,
+  "VisitLogId": 261,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 815,
+  "VisitLogId": 263,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 816,
+  "VisitLogId": 263,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 817,
+  "VisitLogId": 263,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 818,
+  "VisitLogId": 263,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 819,
+  "VisitLogId": 266,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 820,
+  "VisitLogId": 266,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 821,
+  "VisitLogId": 266,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 822,
+  "VisitLogId": 266,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 823,
+  "VisitLogId": 267,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 824,
+  "VisitLogId": 267,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 825,
+  "VisitLogId": 267,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 826,
+  "VisitLogId": 267,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 827,
+  "VisitLogId": 268,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 828,
+  "VisitLogId": 268,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 829,
+  "VisitLogId": 268,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 830,
+  "VisitLogId": 268,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 831,
+  "VisitLogId": 269,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 832,
+  "VisitLogId": 269,
+  "KPITaskId": 3,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 833,
+  "VisitLogId": 269,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 834,
+  "VisitLogId": 269,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 835,
+  "VisitLogId": 273,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 836,
+  "VisitLogId": 273,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 837,
+  "VisitLogId": 273,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 838,
+  "VisitLogId": 274,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 839,
+  "VisitLogId": 274,
+  "KPITaskId": 5,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 840,
+  "VisitLogId": 274,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 841,
+  "VisitLogId": 275,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 842,
+  "VisitLogId": 275,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 843,
+  "VisitLogId": 275,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 844,
+  "VisitLogId": 276,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 845,
+  "VisitLogId": 276,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 846,
+  "VisitLogId": 276,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 847,
+  "VisitLogId": 277,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 848,
+  "VisitLogId": 277,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 849,
+  "VisitLogId": 277,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 850,
+  "VisitLogId": 277,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 851,
+  "VisitLogId": 278,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 852,
+  "VisitLogId": 278,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 853,
+  "VisitLogId": 278,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 854,
+  "VisitLogId": 278,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 855,
+  "VisitLogId": 279,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 856,
+  "VisitLogId": 279,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 857,
+  "VisitLogId": 279,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 858,
+  "VisitLogId": 279,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 859,
+  "VisitLogId": 280,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 860,
+  "VisitLogId": 280,
+  "KPITaskId": 4,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 861,
+  "VisitLogId": 280,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 862,
+  "VisitLogId": 280,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 863,
+  "VisitLogId": 281,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 864,
+  "VisitLogId": 281,
+  "KPITaskId": 4,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 865,
+  "VisitLogId": 281,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 866,
+  "VisitLogId": 281,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 867,
+  "VisitLogId": 282,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 868,
+  "VisitLogId": 282,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 869,
+  "VisitLogId": 282,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 870,
+  "VisitLogId": 282,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 871,
+  "VisitLogId": 283,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 872,
+  "VisitLogId": 283,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 873,
+  "VisitLogId": 283,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 874,
+  "VisitLogId": 283,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 875,
+  "VisitLogId": 284,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 876,
+  "VisitLogId": 284,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 877,
+  "VisitLogId": 284,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 878,
+  "VisitLogId": 284,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 879,
+  "VisitLogId": 285,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 880,
+  "VisitLogId": 285,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 881,
+  "VisitLogId": 285,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 882,
+  "VisitLogId": 285,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 883,
+  "VisitLogId": 286,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 884,
+  "VisitLogId": 286,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 885,
+  "VisitLogId": 286,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 886,
+  "VisitLogId": 286,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 887,
+  "VisitLogId": 287,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 888,
+  "VisitLogId": 287,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 889,
+  "VisitLogId": 287,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 890,
+  "VisitLogId": 287,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 891,
+  "VisitLogId": 288,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 892,
+  "VisitLogId": 288,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 893,
+  "VisitLogId": 288,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 894,
+  "VisitLogId": 288,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 895,
+  "VisitLogId": 289,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 896,
+  "VisitLogId": 289,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 897,
+  "VisitLogId": 289,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 898,
+  "VisitLogId": 289,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 899,
+  "VisitLogId": 292,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 900,
+  "VisitLogId": 292,
+  "KPITaskId": 3,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 901,
+  "VisitLogId": 292,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 902,
+  "VisitLogId": 292,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 903,
+  "VisitLogId": 293,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 904,
+  "VisitLogId": 293,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 905,
+  "VisitLogId": 293,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 906,
+  "VisitLogId": 294,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 907,
+  "VisitLogId": 294,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 908,
+  "VisitLogId": 294,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 909,
+  "VisitLogId": 295,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 910,
+  "VisitLogId": 295,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 911,
+  "VisitLogId": 295,
+  "KPITaskId": 6,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 912,
+  "VisitLogId": 297,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 913,
+  "VisitLogId": 297,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 914,
+  "VisitLogId": 297,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 915,
+  "VisitLogId": 298,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 916,
+  "VisitLogId": 298,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 917,
+  "VisitLogId": 298,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 918,
+  "VisitLogId": 298,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 919,
+  "VisitLogId": 299,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 920,
+  "VisitLogId": 299,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 921,
+  "VisitLogId": 299,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 922,
+  "VisitLogId": 299,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 923,
+  "VisitLogId": 301,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 924,
+  "VisitLogId": 301,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 925,
+  "VisitLogId": 301,
+  "KPITaskId": 3,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 926,
+  "VisitLogId": 301,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 927,
+  "VisitLogId": 302,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 928,
+  "VisitLogId": 302,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 929,
+  "VisitLogId": 302,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 930,
+  "VisitLogId": 302,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 931,
+  "VisitLogId": 303,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 932,
+  "VisitLogId": 303,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 933,
+  "VisitLogId": 303,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 934,
+  "VisitLogId": 303,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 935,
+  "VisitLogId": 305,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 936,
+  "VisitLogId": 305,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 937,
+  "VisitLogId": 305,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 938,
+  "VisitLogId": 305,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 939,
+  "VisitLogId": 306,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 940,
+  "VisitLogId": 306,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 941,
+  "VisitLogId": 306,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 942,
+  "VisitLogId": 306,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 943,
+  "VisitLogId": 307,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 944,
+  "VisitLogId": 307,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 945,
+  "VisitLogId": 307,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 946,
+  "VisitLogId": 307,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 947,
+  "VisitLogId": 308,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 948,
+  "VisitLogId": 308,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 949,
+  "VisitLogId": 308,
+  "KPITaskId": 4,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 950,
+  "VisitLogId": 308,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 951,
+  "VisitLogId": 309,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 952,
+  "VisitLogId": 309,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 953,
+  "VisitLogId": 309,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 954,
+  "VisitLogId": 310,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 955,
+  "VisitLogId": 310,
+  "KPITaskId": 5,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 956,
+  "VisitLogId": 310,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 957,
+  "VisitLogId": 311,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 958,
+  "VisitLogId": 311,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 959,
+  "VisitLogId": 311,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 960,
+  "VisitLogId": 313,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 961,
+  "VisitLogId": 313,
+  "KPITaskId": 5,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 962,
+  "VisitLogId": 313,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 963,
+  "VisitLogId": 314,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 964,
+  "VisitLogId": 314,
+  "KPITaskId": 5,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 965,
+  "VisitLogId": 314,
+  "KPITaskId": 6,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 966,
+  "VisitLogId": 315,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 967,
+  "VisitLogId": 315,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 968,
+  "VisitLogId": 315,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 969,
+  "VisitLogId": 315,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 970,
+  "VisitLogId": 316,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 971,
+  "VisitLogId": 316,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 972,
+  "VisitLogId": 316,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 973,
+  "VisitLogId": 316,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 974,
+  "VisitLogId": 317,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 975,
+  "VisitLogId": 317,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 976,
+  "VisitLogId": 317,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 977,
+  "VisitLogId": 317,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 978,
+  "VisitLogId": 318,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 979,
+  "VisitLogId": 318,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 980,
+  "VisitLogId": 318,
+  "KPITaskId": 6,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 981,
+  "VisitLogId": 318,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 982,
+  "VisitLogId": 320,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 983,
+  "VisitLogId": 320,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 984,
+  "VisitLogId": 320,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 985,
+  "VisitLogId": 320,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 986,
+  "VisitLogId": 321,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 987,
+  "VisitLogId": 321,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 988,
+  "VisitLogId": 321,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 989,
+  "VisitLogId": 321,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 990,
+  "VisitLogId": 322,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 991,
+  "VisitLogId": 322,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 992,
+  "VisitLogId": 322,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 993,
+  "VisitLogId": 322,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 994,
+  "VisitLogId": 323,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 995,
+  "VisitLogId": 323,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 996,
+  "VisitLogId": 323,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 997,
+  "VisitLogId": 323,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 998,
+  "VisitLogId": 324,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 999,
+  "VisitLogId": 324,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1000,
+  "VisitLogId": 324,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1001,
+  "VisitLogId": 324,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1002,
+  "VisitLogId": 325,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1003,
+  "VisitLogId": 325,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1004,
+  "VisitLogId": 325,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1005,
+  "VisitLogId": 325,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1006,
+  "VisitLogId": 326,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1007,
+  "VisitLogId": 326,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1008,
+  "VisitLogId": 326,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1009,
+  "VisitLogId": 326,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1010,
+  "VisitLogId": 327,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1011,
+  "VisitLogId": 327,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1012,
+  "VisitLogId": 327,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1013,
+  "VisitLogId": 327,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1014,
+  "VisitLogId": 330,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1015,
+  "VisitLogId": 330,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1016,
+  "VisitLogId": 330,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1017,
+  "VisitLogId": 331,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1018,
+  "VisitLogId": 331,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1019,
+  "VisitLogId": 331,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1020,
+  "VisitLogId": 332,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1021,
+  "VisitLogId": 332,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1022,
+  "VisitLogId": 332,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1023,
+  "VisitLogId": 334,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1024,
+  "VisitLogId": 334,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1025,
+  "VisitLogId": 334,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1026,
+  "VisitLogId": 334,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1027,
+  "VisitLogId": 335,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1028,
+  "VisitLogId": 335,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1029,
+  "VisitLogId": 335,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1030,
+  "VisitLogId": 335,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1031,
+  "VisitLogId": 336,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1032,
+  "VisitLogId": 336,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1033,
+  "VisitLogId": 336,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1034,
+  "VisitLogId": 336,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1035,
+  "VisitLogId": 337,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1036,
+  "VisitLogId": 337,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1037,
+  "VisitLogId": 337,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1038,
+  "VisitLogId": 337,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1039,
+  "VisitLogId": 338,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1040,
+  "VisitLogId": 338,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1041,
+  "VisitLogId": 338,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1042,
+  "VisitLogId": 338,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1043,
+  "VisitLogId": 339,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1044,
+  "VisitLogId": 339,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1045,
+  "VisitLogId": 339,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1046,
+  "VisitLogId": 339,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1047,
+  "VisitLogId": 341,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1048,
+  "VisitLogId": 341,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1049,
+  "VisitLogId": 341,
+  "KPITaskId": 3,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1050,
+  "VisitLogId": 341,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1051,
+  "VisitLogId": 342,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1052,
+  "VisitLogId": 342,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1053,
+  "VisitLogId": 342,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1054,
+  "VisitLogId": 342,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1055,
+  "VisitLogId": 343,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1056,
+  "VisitLogId": 343,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1057,
+  "VisitLogId": 343,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1058,
+  "VisitLogId": 343,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1059,
+  "VisitLogId": 345,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1060,
+  "VisitLogId": 345,
+  "KPITaskId": 3,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1061,
+  "VisitLogId": 345,
+  "KPITaskId": 4,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1062,
+  "VisitLogId": 345,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1063,
+  "VisitLogId": 346,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1064,
+  "VisitLogId": 346,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1065,
+  "VisitLogId": 346,
+  "KPITaskId": 4,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1066,
+  "VisitLogId": 346,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1067,
+  "VisitLogId": 347,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1068,
+  "VisitLogId": 347,
+  "KPITaskId": 5,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1069,
+  "VisitLogId": 347,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1070,
+  "VisitLogId": 348,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1071,
+  "VisitLogId": 348,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1072,
+  "VisitLogId": 348,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1073,
+  "VisitLogId": 349,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1074,
+  "VisitLogId": 349,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1075,
+  "VisitLogId": 349,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1076,
+  "VisitLogId": 350,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1077,
+  "VisitLogId": 350,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1078,
+  "VisitLogId": 350,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1079,
+  "VisitLogId": 351,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1080,
+  "VisitLogId": 351,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1081,
+  "VisitLogId": 351,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1082,
+  "VisitLogId": 352,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1083,
+  "VisitLogId": 352,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1084,
+  "VisitLogId": 352,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1085,
+  "VisitLogId": 352,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1086,
+  "VisitLogId": 353,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1087,
+  "VisitLogId": 353,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1088,
+  "VisitLogId": 353,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1089,
+  "VisitLogId": 353,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1090,
+  "VisitLogId": 354,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1091,
+  "VisitLogId": 354,
+  "KPITaskId": 4,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1092,
+  "VisitLogId": 354,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1093,
+  "VisitLogId": 354,
+  "KPITaskId": 8,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1094,
+  "VisitLogId": 355,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1095,
+  "VisitLogId": 355,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1096,
+  "VisitLogId": 355,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1097,
+  "VisitLogId": 355,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1098,
+  "VisitLogId": 356,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1099,
+  "VisitLogId": 356,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1100,
+  "VisitLogId": 356,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1101,
+  "VisitLogId": 356,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1102,
+  "VisitLogId": 357,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1103,
+  "VisitLogId": 357,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1104,
+  "VisitLogId": 357,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1105,
+  "VisitLogId": 357,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1106,
+  "VisitLogId": 359,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1107,
+  "VisitLogId": 359,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1108,
+  "VisitLogId": 359,
+  "KPITaskId": 3,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1109,
+  "VisitLogId": 359,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1110,
+  "VisitLogId": 360,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1111,
+  "VisitLogId": 360,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1112,
+  "VisitLogId": 360,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1113,
+  "VisitLogId": 360,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1114,
+  "VisitLogId": 361,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1115,
+  "VisitLogId": 361,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1116,
+  "VisitLogId": 361,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1117,
+  "VisitLogId": 361,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1118,
+  "VisitLogId": 362,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1119,
+  "VisitLogId": 362,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1120,
+  "VisitLogId": 362,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1121,
+  "VisitLogId": 362,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1122,
+  "VisitLogId": 363,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1123,
+  "VisitLogId": 363,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1124,
+  "VisitLogId": 363,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1125,
+  "VisitLogId": 363,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1126,
+  "VisitLogId": 364,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1127,
+  "VisitLogId": 364,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1128,
+  "VisitLogId": 364,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1129,
+  "VisitLogId": 364,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1130,
+  "VisitLogId": 365,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1131,
+  "VisitLogId": 365,
+  "KPITaskId": 5,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1132,
+  "VisitLogId": 365,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1133,
+  "VisitLogId": 366,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1134,
+  "VisitLogId": 366,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1135,
+  "VisitLogId": 366,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1136,
+  "VisitLogId": 368,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1137,
+  "VisitLogId": 368,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1138,
+  "VisitLogId": 368,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1139,
+  "VisitLogId": 369,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1140,
+  "VisitLogId": 369,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1141,
+  "VisitLogId": 369,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1142,
+  "VisitLogId": 369,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1143,
+  "VisitLogId": 370,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1144,
+  "VisitLogId": 370,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1145,
+  "VisitLogId": 370,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1146,
+  "VisitLogId": 370,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1147,
+  "VisitLogId": 371,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1148,
+  "VisitLogId": 371,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1149,
+  "VisitLogId": 371,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1150,
+  "VisitLogId": 371,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1151,
+  "VisitLogId": 374,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1152,
+  "VisitLogId": 374,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1153,
+  "VisitLogId": 374,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1154,
+  "VisitLogId": 374,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1155,
+  "VisitLogId": 375,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1156,
+  "VisitLogId": 375,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1157,
+  "VisitLogId": 375,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1158,
+  "VisitLogId": 375,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1159,
+  "VisitLogId": 376,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1160,
+  "VisitLogId": 376,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1161,
+  "VisitLogId": 376,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1162,
+  "VisitLogId": 376,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1163,
+  "VisitLogId": 379,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1164,
+  "VisitLogId": 379,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1165,
+  "VisitLogId": 379,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1166,
+  "VisitLogId": 379,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1167,
+  "VisitLogId": 380,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1168,
+  "VisitLogId": 380,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1169,
+  "VisitLogId": 380,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1170,
+  "VisitLogId": 380,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1171,
+  "VisitLogId": 381,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1172,
+  "VisitLogId": 381,
+  "KPITaskId": 3,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1173,
+  "VisitLogId": 381,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1174,
+  "VisitLogId": 381,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1175,
+  "VisitLogId": 383,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1176,
+  "VisitLogId": 383,
+  "KPITaskId": 3,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1177,
+  "VisitLogId": 383,
+  "KPITaskId": 4,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1178,
+  "VisitLogId": 383,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1179,
+  "VisitLogId": 384,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1180,
+  "VisitLogId": 384,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1181,
+  "VisitLogId": 384,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1182,
+  "VisitLogId": 384,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1183,
+  "VisitLogId": 385,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1184,
+  "VisitLogId": 385,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1185,
+  "VisitLogId": 385,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1186,
+  "VisitLogId": 386,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1187,
+  "VisitLogId": 386,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1188,
+  "VisitLogId": 386,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1189,
+  "VisitLogId": 388,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1190,
+  "VisitLogId": 388,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1191,
+  "VisitLogId": 388,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1192,
+  "VisitLogId": 389,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1193,
+  "VisitLogId": 389,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1194,
+  "VisitLogId": 389,
+  "KPITaskId": 6,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1195,
+  "VisitLogId": 390,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1196,
+  "VisitLogId": 390,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1197,
+  "VisitLogId": 390,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1198,
+  "VisitLogId": 390,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1199,
+  "VisitLogId": 391,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1200,
+  "VisitLogId": 391,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1201,
+  "VisitLogId": 391,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1202,
+  "VisitLogId": 391,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1203,
+  "VisitLogId": 392,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1204,
+  "VisitLogId": 392,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1205,
+  "VisitLogId": 392,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1206,
+  "VisitLogId": 392,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1207,
+  "VisitLogId": 393,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1208,
+  "VisitLogId": 393,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1209,
+  "VisitLogId": 393,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1210,
+  "VisitLogId": 393,
+  "KPITaskId": 8,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1211,
+  "VisitLogId": 394,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1212,
+  "VisitLogId": 394,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1213,
+  "VisitLogId": 394,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1214,
+  "VisitLogId": 394,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1215,
+  "VisitLogId": 396,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1216,
+  "VisitLogId": 396,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1217,
+  "VisitLogId": 396,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1218,
+  "VisitLogId": 396,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1219,
+  "VisitLogId": 397,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1220,
+  "VisitLogId": 397,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1221,
+  "VisitLogId": 397,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1222,
+  "VisitLogId": 397,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1223,
+  "VisitLogId": 398,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1224,
+  "VisitLogId": 398,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1225,
+  "VisitLogId": 398,
+  "KPITaskId": 3,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1227,
+  "VisitLogId": 398,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1228,
+  "VisitLogId": 399,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1229,
+  "VisitLogId": 399,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1230,
+  "VisitLogId": 399,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1231,
+  "VisitLogId": 399,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1232,
+  "VisitLogId": 400,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1233,
+  "VisitLogId": 400,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1234,
+  "VisitLogId": 400,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1235,
+  "VisitLogId": 400,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1236,
+  "VisitLogId": 401,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1237,
+  "VisitLogId": 401,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1238,
+  "VisitLogId": 401,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1239,
+  "VisitLogId": 401,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1240,
+  "VisitLogId": 402,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1241,
+  "VisitLogId": 402,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1242,
+  "VisitLogId": 402,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1243,
+  "VisitLogId": 402,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1244,
+  "VisitLogId": 403,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1245,
+  "VisitLogId": 403,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1246,
+  "VisitLogId": 403,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1247,
+  "VisitLogId": 403,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1248,
+  "VisitLogId": 404,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1249,
+  "VisitLogId": 404,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1250,
+  "VisitLogId": 404,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1251,
+  "VisitLogId": 404,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1252,
+  "VisitLogId": 406,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1253,
+  "VisitLogId": 406,
+  "KPITaskId": 3,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1254,
+  "VisitLogId": 406,
+  "KPITaskId": 4,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1255,
+  "VisitLogId": 406,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1256,
+  "VisitLogId": 407,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1257,
+  "VisitLogId": 407,
+  "KPITaskId": 3,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1258,
+  "VisitLogId": 407,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1259,
+  "VisitLogId": 407,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1260,
+  "VisitLogId": 408,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1261,
+  "VisitLogId": 408,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1262,
+  "VisitLogId": 408,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1263,
+  "VisitLogId": 409,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1264,
+  "VisitLogId": 409,
+  "KPITaskId": 5,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1265,
+  "VisitLogId": 409,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1266,
+  "VisitLogId": 410,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1267,
+  "VisitLogId": 410,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1268,
+  "VisitLogId": 410,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1269,
+  "VisitLogId": 411,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1270,
+  "VisitLogId": 411,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1271,
+  "VisitLogId": 411,
+  "KPITaskId": 6,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1272,
+  "VisitLogId": 412,
+  "KPITaskId": 2,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1273,
+  "VisitLogId": 412,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1274,
+  "VisitLogId": 412,
+  "KPITaskId": 6,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1275,
+  "VisitLogId": 413,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1276,
+  "VisitLogId": 413,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1277,
+  "VisitLogId": 413,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1278,
+  "VisitLogId": 413,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1279,
+  "VisitLogId": 414,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1280,
+  "VisitLogId": 414,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1281,
+  "VisitLogId": 414,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1282,
+  "VisitLogId": 414,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1283,
+  "VisitLogId": 415,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1284,
+  "VisitLogId": 415,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1285,
+  "VisitLogId": 415,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1286,
+  "VisitLogId": 415,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1287,
+  "VisitLogId": 416,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1288,
+  "VisitLogId": 416,
+  "KPITaskId": 4,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1289,
+  "VisitLogId": 416,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1290,
+  "VisitLogId": 416,
+  "KPITaskId": 8,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1291,
+  "VisitLogId": 417,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1292,
+  "VisitLogId": 417,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1293,
+  "VisitLogId": 417,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1294,
+  "VisitLogId": 417,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1295,
+  "VisitLogId": 418,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1296,
+  "VisitLogId": 418,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1297,
+  "VisitLogId": 418,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1298,
+  "VisitLogId": 418,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1299,
+  "VisitLogId": 420,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1300,
+  "VisitLogId": 420,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1301,
+  "VisitLogId": 420,
+  "KPITaskId": 3,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1302,
+  "VisitLogId": 420,
+  "KPITaskId": 7,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1303,
+  "VisitLogId": 422,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1304,
+  "VisitLogId": 422,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1305,
+  "VisitLogId": 422,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1306,
+  "VisitLogId": 422,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1307,
+  "VisitLogId": 424,
+  "KPITaskId": 1,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1308,
+  "VisitLogId": 424,
+  "KPITaskId": 3,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1309,
+  "VisitLogId": 424,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1310,
+  "VisitLogId": 424,
+  "KPITaskId": 7,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1311,
+  "VisitLogId": 426,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1312,
+  "VisitLogId": 426,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1313,
+  "VisitLogId": 426,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1314,
+  "VisitLogId": 429,
+  "KPITaskId": 2,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1315,
+  "VisitLogId": 429,
+  "KPITaskId": 5,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1316,
+  "VisitLogId": 429,
+  "KPITaskId": 6,
+  "IsCompleted": false,
+  "Notes": "Not completed during visit"
+ },
+ {
+  "Id": 1317,
+  "VisitLogId": 432,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1318,
+  "VisitLogId": 432,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1319,
+  "VisitLogId": 432,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1320,
+  "VisitLogId": 432,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1321,
+  "VisitLogId": 434,
+  "KPITaskId": 1,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1322,
+  "VisitLogId": 434,
+  "KPITaskId": 4,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1323,
+  "VisitLogId": 434,
+  "KPITaskId": 6,
+  "IsCompleted": true,
+  "Notes": ""
+ },
+ {
+  "Id": 1324,
+  "VisitLogId": 434,
+  "KPITaskId": 8,
+  "IsCompleted": true,
+  "Notes": ""
+ }
+]

@@ -1,0 +1,1202 @@
+[
+ {
+  "Id": 1,
+  "Code": "MK-1001",
+  "Name": "Family Deli",
+  "Location": "47 Garden Row, Oakfield",
+  "Latitude": 45.463957,
+  "Longitude": 9.160489,
+  "VisitFrequency": "Bi-weekly",
+  "RouteId": 1
+ },
+ {
+  "Id": 2,
+  "Code": "MK-1002",
+  "Name": "City Supermarket",
+  "Location": "203 Garden Row, Riverside",
+  "Latitude": 45.478874,
+  "Longitude": 9.155996,
+  "VisitFrequency": "Weekly",
+  "RouteId": 2
+ },
+ {
+  "Id": 3,
+  "Code": "MK-1003",
+  "Name": "Harbor Pantry",
+  "Location": "147 High St, Old Quarter",
+  "Latitude": 45.494947,
+  "Longitude": 9.140112,
+  "VisitFrequency": "Weekly",
+  "RouteId": 3
+ },
+ {
+  "Id": 4,
+  "Code": "MK-1004",
+  "Name": "Fresh Market",
+  "Location": "199 Canal Walk, Hillcrest",
+  "Latitude": 45.517384,
+  "Longitude": 9.135673,
+  "VisitFrequency": "Weekly",
+  "RouteId": 4
+ },
+ {
+  "Id": 5,
+  "Code": "MK-1005",
+  "Name": "Daily Provisions",
+  "Location": "34 Canal Walk, Westgate",
+  "Latitude": 45.542535,
+  "Longitude": 9.150457,
+  "VisitFrequency": "Bi-weekly",
+  "RouteId": 5
+ },
+ {
+  "Id": 6,
+  "Code": "MK-1006",
+  "Name": "Juniper Corner Shop",
+  "Location": "176 High St, Lakeside",
+  "Latitude": 45.466185,
+  "Longitude": 9.246282,
+  "VisitFrequency": "Bi-weekly",
+  "RouteId": 6
+ },
+ {
+  "Id": 7,
+  "Code": "MK-1007",
+  "Name": "City Corner Shop",
+  "Location": "74 Garden Row, Cedar Park",
+  "Latitude": 45.478836,
+  "Longitude": 9.233759,
+  "VisitFrequency": "Weekly",
+  "RouteId": 7
+ },
+ {
+  "Id": 8,
+  "Code": "MK-1008",
+  "Name": "Corner Deli",
+  "Location": "84 Garden Row, Harbor View",
+  "Latitude": 45.508424,
+  "Longitude": 9.240834,
+  "VisitFrequency": "Weekly",
+  "RouteId": 8
+ },
+ {
+  "Id": 9,
+  "Code": "MK-1009",
+  "Name": "Maple Grocers",
+  "Location": "175 Orchard Way, Stonebrook",
+  "Latitude": 45.529642,
+  "Longitude": 9.228537,
+  "VisitFrequency": "Twice weekly",
+  "RouteId": 9
+ },
+ {
+  "Id": 10,
+  "Code": "MK-1010",
+  "Name": "Pebble Provisions",
+  "Location": "212 Canal Walk, Millbrook",
+  "Latitude": 45.561424,
+  "Longitude": 9.249981,
+  "VisitFrequency": "Weekly",
+  "RouteId": 10
+ },
+ {
+  "Id": 11,
+  "Code": "MK-1011",
+  "Name": "Golden Corner Shop",
+  "Location": "163 Elm St, Oakfield",
+  "Latitude": 45.468867,
+  "Longitude": 9.161699,
+  "VisitFrequency": "Weekly",
+  "RouteId": 1
+ },
+ {
+  "Id": 12,
+  "Code": "MK-1012",
+  "Name": "Copper Corner Shop",
+  "Location": "213 Garden Row, Riverside",
+  "Latitude": 45.474207,
+  "Longitude": 9.133374,
+  "VisitFrequency": "Weekly",
+  "RouteId": 2
+ },
+ {
+  "Id": 13,
+  "Code": "MK-1013",
+  "Name": "Maple Pantry",
+  "Location": "107 Station Rd, Old Quarter",
+  "Latitude": 45.49587,
+  "Longitude": 9.14779,
+  "VisitFrequency": "Weekly",
+  "RouteId": 3
+ },
+ {
+  "Id": 14,
+  "Code": "MK-1014",
+  "Name": "Copper Mini Mart",
+  "Location": "108 Park Ave, Hillcrest",
+  "Latitude": 45.532421,
+  "Longitude": 9.161369,
+  "VisitFrequency": "Bi-weekly",
+  "RouteId": 4
+ },
+ {
+  "Id": 15,
+  "Code": "MK-1015",
+  "Name": "Blue Door Mini Mart",
+  "Location": "184 Bridge Rd, Westgate",
+  "Latitude": 45.544903,
+  "Longitude": 9.149472,
+  "VisitFrequency": "Weekly",
+  "RouteId": 5
+ },
+ {
+  "Id": 16,
+  "Code": "MK-1016",
+  "Name": "Daily Deli",
+  "Location": "203 Mill Lane, Lakeside",
+  "Latitude": 45.463518,
+  "Longitude": 9.248702,
+  "VisitFrequency": "Weekly",
+  "RouteId": 6
+ },
+ {
+  "Id": 17,
+  "Code": "MK-1017",
+  "Name": "Olive Mini Mart",
+  "Location": "81 Mill Lane, Cedar Park",
+  "Latitude": 45.48042,
+  "Longitude": 9.218578,
+  "VisitFrequency": "Weekly",
+  "RouteId": 7
+ },
+ {
+  "Id": 18,
+  "Code": "MK-1018",
+  "Name": "Family Kiosk",
+  "Location": "121 Station Rd, Harbor View",
+  "Latitude": 45.501857,
+  "Longitude": 9.233363,
+  "VisitFrequency": "Twice weekly",
+  "RouteId": 8
+ },
+ {
+  "Id": 19,
+  "Code": "MK-1019",
+  "Name": "Willow Grocers",
+  "Location": "122 Canal Walk, Stonebrook",
+  "Latitude": 45.517969,
+  "Longitude": 9.240287,
+  "VisitFrequency": "Bi-weekly",
+  "RouteId": 9
+ },
+ {
+  "Id": 20,
+  "Code": "MK-1020",
+  "Name": "Blue Door Kiosk",
+  "Location": "130 King St, Millbrook",
+  "Latitude": 45.556388,
+  "Longitude": 9.241794,
+  "VisitFrequency": "Weekly",
+  "RouteId": 10
+ },
+ {
+  "Id": 21,
+  "Code": "MK-1021",
+  "Name": "Sunrise Store",
+  "Location": "77 King St, Oakfield",
+  "Latitude": 45.454654,
+  "Longitude": 9.130439,
+  "VisitFrequency": "Weekly",
+  "RouteId": 1
+ },
+ {
+  "Id": 22,
+  "Code": "MK-1022",
+  "Name": "Harbor Mini Mart",
+  "Location": "51 High St, Riverside",
+  "Latitude": 45.485853,
+  "Longitude": 9.150608,
+  "VisitFrequency": "Weekly",
+  "RouteId": 2
+ },
+ {
+  "Id": 23,
+  "Code": "MK-1023",
+  "Name": "Sunrise Pantry",
+  "Location": "221 Bridge Rd, Old Quarter",
+  "Latitude": 45.505183,
+  "Longitude": 9.155524,
+  "VisitFrequency": "Weekly",
+  "RouteId": 3
+ },
+ {
+  "Id": 24,
+  "Code": "MK-1024",
+  "Name": "Olive Supermarket",
+  "Location": "166 Park Ave, Hillcrest",
+  "Latitude": 45.525117,
+  "Longitude": 9.143908,
+  "VisitFrequency": "Bi-weekly",
+  "RouteId": 4
+ },
+ {
+  "Id": 25,
+  "Code": "MK-1025",
+  "Name": "Fresh Pantry",
+  "Location": "163 Park Ave, Westgate",
+  "Latitude": 45.555659,
+  "Longitude": 9.14476,
+  "VisitFrequency": "Weekly",
+  "RouteId": 5
+ },
+ {
+  "Id": 26,
+  "Code": "MK-1026",
+  "Name": "Copper Pantry",
+  "Location": "91 Station Rd, Lakeside",
+  "Latitude": 45.454648,
+  "Longitude": 9.218386,
+  "VisitFrequency": "Weekly",
+  "RouteId": 6
+ },
+ {
+  "Id": 27,
+  "Code": "MK-1027",
+  "Name": "Green Corner Shop",
+  "Location": "64 Station Rd, Cedar Park",
+  "Latitude": 45.474418,
+  "Longitude": 9.238961,
+  "VisitFrequency": "Weekly",
+  "RouteId": 7
+ },
+ {
+  "Id": 28,
+  "Code": "MK-1028",
+  "Name": "Sunrise Deli",
+  "Location": "165 King St, Harbor View",
+  "Latitude": 45.508049,
+  "Longitude": 9.242124,
+  "VisitFrequency": "Weekly",
+  "RouteId": 8
+ },
+ {
+  "Id": 29,
+  "Code": "MK-1029",
+  "Name": "Meadow Store",
+  "Location": "222 High St, Stonebrook",
+  "Latitude": 45.519059,
+  "Longitude": 9.240638,
+  "VisitFrequency": "Weekly",
+  "RouteId": 9
+ },
+ {
+  "Id": 30,
+  "Code": "MK-1030",
+  "Name": "Copper Provisions",
+  "Location": "153 High St, Millbrook",
+  "Latitude": 45.544013,
+  "Longitude": 9.230472,
+  "VisitFrequency": "Bi-weekly",
+  "RouteId": 10
+ },
+ {
+  "Id": 31,
+  "Code": "MK-1031",
+  "Name": "Golden Pantry",
+  "Location": "213 Park Ave, Oakfield",
+  "Latitude": 45.466601,
+  "Longitude": 9.150064,
+  "VisitFrequency": "Weekly",
+  "RouteId": 1
+ },
+ {
+  "Id": 32,
+  "Code": "MK-1032",
+  "Name": "Northstar Pantry",
+  "Location": "66 Canal Walk, Riverside",
+  "Latitude": 45.475706,
+  "Longitude": 9.151326,
+  "VisitFrequency": "Weekly",
+  "RouteId": 2
+ },
+ {
+  "Id": 33,
+  "Code": "MK-1033",
+  "Name": "Copper Grocers",
+  "Location": "237 Station Rd, Old Quarter",
+  "Latitude": 45.507052,
+  "Longitude": 9.132118,
+  "VisitFrequency": "Bi-weekly",
+  "RouteId": 3
+ },
+ {
+  "Id": 34,
+  "Code": "MK-1034",
+  "Name": "Lantern Store",
+  "Location": "151 High St, Hillcrest",
+  "Latitude": 45.531008,
+  "Longitude": 9.135216,
+  "VisitFrequency": "Twice weekly",
+  "RouteId": 4
+ },
+ {
+  "Id": 35,
+  "Code": "MK-1035",
+  "Name": "Harbor Supermarket",
+  "Location": "47 Canal Walk, Westgate",
+  "Latitude": 45.541497,
+  "Longitude": 9.138121,
+  "VisitFrequency": "Weekly",
+  "RouteId": 5
+ },
+ {
+  "Id": 36,
+  "Code": "MK-1036",
+  "Name": "Maple Corner Shop",
+  "Location": "180 Station Rd, Lakeside",
+  "Latitude": 45.464966,
+  "Longitude": 9.220779,
+  "VisitFrequency": "Weekly",
+  "RouteId": 6
+ },
+ {
+  "Id": 37,
+  "Code": "MK-1037",
+  "Name": "Juniper Mini Mart",
+  "Location": "1 Mill Lane, Cedar Park",
+  "Latitude": 45.483238,
+  "Longitude": 9.220284,
+  "VisitFrequency": "Weekly",
+  "RouteId": 7
+ },
+ {
+  "Id": 38,
+  "Code": "MK-1038",
+  "Name": "Blue Door Grocers",
+  "Location": "79 Mill Lane, Harbor View",
+  "Latitude": 45.504583,
+  "Longitude": 9.222747,
+  "VisitFrequency": "Weekly",
+  "RouteId": 8
+ },
+ {
+  "Id": 39,
+  "Code": "MK-1039",
+  "Name": "Olive Kiosk",
+  "Location": "30 Elm St, Stonebrook",
+  "Latitude": 45.519251,
+  "Longitude": 9.225805,
+  "VisitFrequency": "Weekly",
+  "RouteId": 9
+ },
+ {
+  "Id": 40,
+  "Code": "MK-1040",
+  "Name": "City Pantry",
+  "Location": "49 Park Ave, Millbrook",
+  "Latitude": 45.552829,
+  "Longitude": 9.243549,
+  "VisitFrequency": "Weekly",
+  "RouteId": 10
+ },
+ {
+  "Id": 41,
+  "Code": "MK-1041",
+  "Name": "Brightside Grocers",
+  "Location": "186 Park Ave, Oakfield",
+  "Latitude": 45.470196,
+  "Longitude": 9.144358,
+  "VisitFrequency": "Weekly",
+  "RouteId": 1
+ },
+ {
+  "Id": 42,
+  "Code": "MK-1042",
+  "Name": "Sunrise Corner Shop",
+  "Location": "190 Mill Lane, Riverside",
+  "Latitude": 45.479801,
+  "Longitude": 9.146524,
+  "VisitFrequency": "Weekly",
+  "RouteId": 2
+ },
+ {
+  "Id": 43,
+  "Code": "MK-1043",
+  "Name": "Harbor Deli",
+  "Location": "6 Bridge Rd, Old Quarter",
+  "Latitude": 45.506458,
+  "Longitude": 9.134021,
+  "VisitFrequency": "Weekly",
+  "RouteId": 3
+ },
+ {
+  "Id": 44,
+  "Code": "MK-1044",
+  "Name": "Copper Deli",
+  "Location": "175 Park Ave, Hillcrest",
+  "Latitude": 45.52854,
+  "Longitude": 9.136016,
+  "VisitFrequency": "Weekly",
+  "RouteId": 4
+ },
+ {
+  "Id": 45,
+  "Code": "MK-1045",
+  "Name": "Family Supermarket",
+  "Location": "171 Orchard Way, Westgate",
+  "Latitude": 45.547792,
+  "Longitude": 9.132814,
+  "VisitFrequency": "Twice weekly",
+  "RouteId": 5
+ },
+ {
+  "Id": 46,
+  "Code": "MK-1046",
+  "Name": "Lantern Grocers",
+  "Location": "180 Canal Walk, Lakeside",
+  "Latitude": 45.457095,
+  "Longitude": 9.228077,
+  "VisitFrequency": "Weekly",
+  "RouteId": 6
+ },
+ {
+  "Id": 47,
+  "Code": "MK-1047",
+  "Name": "Golden Market",
+  "Location": "224 Canal Walk, Cedar Park",
+  "Latitude": 45.490247,
+  "Longitude": 9.235406,
+  "VisitFrequency": "Bi-weekly",
+  "RouteId": 7
+ },
+ {
+  "Id": 48,
+  "Code": "MK-1048",
+  "Name": "Meadow Kiosk",
+  "Location": "222 Elm St, Harbor View",
+  "Latitude": 45.504328,
+  "Longitude": 9.23,
+  "VisitFrequency": "Weekly",
+  "RouteId": 8
+ },
+ {
+  "Id": 49,
+  "Code": "MK-1049",
+  "Name": "Blue Door Store",
+  "Location": "34 King St, Stonebrook",
+  "Latitude": 45.521115,
+  "Longitude": 9.24945,
+  "VisitFrequency": "Bi-weekly",
+  "RouteId": 9
+ },
+ {
+  "Id": 50,
+  "Code": "MK-1050",
+  "Name": "Olive Provisions",
+  "Location": "54 Bridge Rd, Millbrook",
+  "Latitude": 45.54123,
+  "Longitude": 9.219419,
+  "VisitFrequency": "Twice weekly",
+  "RouteId": 10
+ },
+ {
+  "Id": 51,
+  "Code": "MK-1051",
+  "Name": "Sunrise Kiosk",
+  "Location": "22 Elm St, Oakfield",
+  "Latitude": 45.452973,
+  "Longitude": 9.129993,
+  "VisitFrequency": "Bi-weekly",
+  "RouteId": 1
+ },
+ {
+  "Id": 52,
+  "Code": "MK-1052",
+  "Name": "Harbor Corner Shop",
+  "Location": "168 Mill Lane, Riverside",
+  "Latitude": 45.476622,
+  "Longitude": 9.15243,
+  "VisitFrequency": "Weekly",
+  "RouteId": 2
+ },
+ {
+  "Id": 53,
+  "Code": "MK-1053",
+  "Name": "Brightside Supermarket",
+  "Location": "132 Station Rd, Old Quarter",
+  "Latitude": 45.503757,
+  "Longitude": 9.150477,
+  "VisitFrequency": "Bi-weekly",
+  "RouteId": 3
+ },
+ {
+  "Id": 54,
+  "Code": "MK-1054",
+  "Name": "Corner Mini Mart",
+  "Location": "213 Park Ave, Hillcrest",
+  "Latitude": 45.538303,
+  "Longitude": 9.15084,
+  "VisitFrequency": "Weekly",
+  "RouteId": 4
+ },
+ {
+  "Id": 55,
+  "Code": "MK-1055",
+  "Name": "Willow Pantry",
+  "Location": "188 King St, Westgate",
+  "Latitude": 45.543181,
+  "Longitude": 9.143115,
+  "VisitFrequency": "Weekly",
+  "RouteId": 5
+ },
+ {
+  "Id": 56,
+  "Code": "MK-1056",
+  "Name": "Olive Corner Shop",
+  "Location": "11 Orchard Way, Lakeside",
+  "Latitude": 45.468292,
+  "Longitude": 9.252871,
+  "VisitFrequency": "Weekly",
+  "RouteId": 6
+ },
+ {
+  "Id": 57,
+  "Code": "MK-1057",
+  "Name": "Harbor Kiosk",
+  "Location": "99 Mill Lane, Cedar Park",
+  "Latitude": 45.477374,
+  "Longitude": 9.237824,
+  "VisitFrequency": "Bi-weekly",
+  "RouteId": 7
+ },
+ {
+  "Id": 58,
+  "Code": "MK-1058",
+  "Name": "Golden Store",
+  "Location": "91 King St, Harbor View",
+  "Latitude": 45.500631,
+  "Longitude": 9.22409,
+  "VisitFrequency": "Twice weekly",
+  "RouteId": 8
+ },
+ {
+  "Id": 59,
+  "Code": "MK-1059",
+  "Name": "Lantern Market",
+  "Location": "24 Mill Lane, Stonebrook",
+  "Latitude": 45.529959,
+  "Longitude": 9.220848,
+  "VisitFrequency": "Weekly",
+  "RouteId": 9
+ },
+ {
+  "Id": 60,
+  "Code": "MK-1060",
+  "Name": "Pebble Supermarket",
+  "Location": "76 Station Rd, Millbrook",
+  "Latitude": 45.549993,
+  "Longitude": 9.243511,
+  "VisitFrequency": "Weekly",
+  "RouteId": 10
+ },
+ {
+  "Id": 61,
+  "Code": "MK-1061",
+  "Name": "Family Provisions",
+  "Location": "228 Canal Walk, Oakfield",
+  "Latitude": 45.453288,
+  "Longitude": 9.132771,
+  "VisitFrequency": "Bi-weekly",
+  "RouteId": 1
+ },
+ {
+  "Id": 62,
+  "Code": "MK-1062",
+  "Name": "Green Provisions",
+  "Location": "154 High St, Riverside",
+  "Latitude": 45.489977,
+  "Longitude": 9.151892,
+  "VisitFrequency": "Twice weekly",
+  "RouteId": 2
+ },
+ {
+  "Id": 63,
+  "Code": "MK-1063",
+  "Name": "Maple Store",
+  "Location": "179 Canal Walk, Old Quarter",
+  "Latitude": 45.495796,
+  "Longitude": 9.132363,
+  "VisitFrequency": "Weekly",
+  "RouteId": 3
+ },
+ {
+  "Id": 64,
+  "Code": "MK-1064",
+  "Name": "Juniper Grocers",
+  "Location": "227 Elm St, Hillcrest",
+  "Latitude": 45.516675,
+  "Longitude": 9.14651,
+  "VisitFrequency": "Twice weekly",
+  "RouteId": 4
+ },
+ {
+  "Id": 65,
+  "Code": "MK-1065",
+  "Name": "Willow Kiosk",
+  "Location": "34 King St, Westgate",
+  "Latitude": 45.542017,
+  "Longitude": 9.151705,
+  "VisitFrequency": "Twice weekly",
+  "RouteId": 5
+ },
+ {
+  "Id": 66,
+  "Code": "MK-1066",
+  "Name": "City Kiosk",
+  "Location": "103 Elm St, Lakeside",
+  "Latitude": 45.44842,
+  "Longitude": 9.238065,
+  "VisitFrequency": "Weekly",
+  "RouteId": 6
+ },
+ {
+  "Id": 67,
+  "Code": "MK-1067",
+  "Name": "Green Supermarket",
+  "Location": "165 Canal Walk, Cedar Park",
+  "Latitude": 45.474098,
+  "Longitude": 9.24587,
+  "VisitFrequency": "Twice weekly",
+  "RouteId": 7
+ },
+ {
+  "Id": 68,
+  "Code": "MK-1068",
+  "Name": "Northstar Market",
+  "Location": "174 Station Rd, Harbor View",
+  "Latitude": 45.49396,
+  "Longitude": 9.225772,
+  "VisitFrequency": "Bi-weekly",
+  "RouteId": 8
+ },
+ {
+  "Id": 69,
+  "Code": "MK-1069",
+  "Name": "Pebble Market",
+  "Location": "108 Canal Walk, Stonebrook",
+  "Latitude": 45.53541,
+  "Longitude": 9.218953,
+  "VisitFrequency": "Weekly",
+  "RouteId": 9
+ },
+ {
+  "Id": 70,
+  "Code": "MK-1070",
+  "Name": "Brightside Store",
+  "Location": "178 Bridge Rd, Millbrook",
+  "Latitude": 45.546331,
+  "Longitude": 9.247558,
+  "VisitFrequency": "Bi-weekly",
+  "RouteId": 10
+ },
+ {
+  "Id": 71,
+  "Code": "MK-1071",
+  "Name": "Maple Market",
+  "Location": "240 Canal Walk, Oakfield",
+  "Latitude": 45.449814,
+  "Longitude": 9.138237,
+  "VisitFrequency": "Weekly",
+  "RouteId": 1
+ },
+ {
+  "Id": 72,
+  "Code": "MK-1072",
+  "Name": "Family Market",
+  "Location": "239 Station Rd, Riverside",
+  "Latitude": 45.47115,
+  "Longitude": 9.145141,
+  "VisitFrequency": "Bi-weekly",
+  "RouteId": 2
+ },
+ {
+  "Id": 73,
+  "Code": "MK-1073",
+  "Name": "Harbor Store",
+  "Location": "4 King St, Old Quarter",
+  "Latitude": 45.49482,
+  "Longitude": 9.139436,
+  "VisitFrequency": "Bi-weekly",
+  "RouteId": 3
+ },
+ {
+  "Id": 74,
+  "Code": "MK-1074",
+  "Name": "Sunrise Market",
+  "Location": "210 Garden Row, Hillcrest",
+  "Latitude": 45.522187,
+  "Longitude": 9.135864,
+  "VisitFrequency": "Twice weekly",
+  "RouteId": 4
+ },
+ {
+  "Id": 75,
+  "Code": "MK-1075",
+  "Name": "Harbor Provisions",
+  "Location": "32 Orchard Way, Westgate",
+  "Latitude": 45.552791,
+  "Longitude": 9.160545,
+  "VisitFrequency": "Weekly",
+  "RouteId": 5
+ },
+ {
+  "Id": 76,
+  "Code": "MK-1076",
+  "Name": "Maple Deli",
+  "Location": "30 Elm St, Lakeside",
+  "Latitude": 45.455995,
+  "Longitude": 9.223286,
+  "VisitFrequency": "Weekly",
+  "RouteId": 6
+ },
+ {
+  "Id": 77,
+  "Code": "MK-1077",
+  "Name": "Green Store",
+  "Location": "110 Elm St, Cedar Park",
+  "Latitude": 45.486847,
+  "Longitude": 9.224073,
+  "VisitFrequency": "Weekly",
+  "RouteId": 7
+ },
+ {
+  "Id": 78,
+  "Code": "MK-1078",
+  "Name": "Green Market",
+  "Location": "117 Bridge Rd, Harbor View",
+  "Latitude": 45.49968,
+  "Longitude": 9.22906,
+  "VisitFrequency": "Twice weekly",
+  "RouteId": 8
+ },
+ {
+  "Id": 79,
+  "Code": "MK-1079",
+  "Name": "Sunrise Mini Mart",
+  "Location": "46 Bridge Rd, Stonebrook",
+  "Latitude": 45.517913,
+  "Longitude": 9.245265,
+  "VisitFrequency": "Weekly",
+  "RouteId": 9
+ },
+ {
+  "Id": 80,
+  "Code": "MK-1080",
+  "Name": "Lantern Pantry",
+  "Location": "79 Canal Walk, Millbrook",
+  "Latitude": 45.554974,
+  "Longitude": 9.225696,
+  "VisitFrequency": "Twice weekly",
+  "RouteId": 10
+ },
+ {
+  "Id": 81,
+  "Code": "MK-1081",
+  "Name": "Green Kiosk",
+  "Location": "45 Orchard Way, Oakfield",
+  "Latitude": 45.46275,
+  "Longitude": 9.148383,
+  "VisitFrequency": "Twice weekly",
+  "RouteId": 1
+ },
+ {
+  "Id": 82,
+  "Code": "MK-1082",
+  "Name": "Fresh Provisions",
+  "Location": "104 Orchard Way, Riverside",
+  "Latitude": 45.472745,
+  "Longitude": 9.144959,
+  "VisitFrequency": "Twice weekly",
+  "RouteId": 2
+ },
+ {
+  "Id": 83,
+  "Code": "MK-1083",
+  "Name": "Olive Pantry",
+  "Location": "178 Elm St, Old Quarter",
+  "Latitude": 45.514884,
+  "Longitude": 9.133127,
+  "VisitFrequency": "Weekly",
+  "RouteId": 3
+ },
+ {
+  "Id": 84,
+  "Code": "MK-1084",
+  "Name": "Olive Deli",
+  "Location": "41 Station Rd, Hillcrest",
+  "Latitude": 45.532679,
+  "Longitude": 9.133589,
+  "VisitFrequency": "Twice weekly",
+  "RouteId": 4
+ },
+ {
+  "Id": 85,
+  "Code": "MK-1085",
+  "Name": "Pebble Corner Shop",
+  "Location": "8 Mill Lane, Westgate",
+  "Latitude": 45.54833,
+  "Longitude": 9.156597,
+  "VisitFrequency": "Weekly",
+  "RouteId": 5
+ },
+ {
+  "Id": 86,
+  "Code": "MK-1086",
+  "Name": "Fresh Store",
+  "Location": "185 King St, Lakeside",
+  "Latitude": 45.450403,
+  "Longitude": 9.233525,
+  "VisitFrequency": "Twice weekly",
+  "RouteId": 6
+ },
+ {
+  "Id": 87,
+  "Code": "MK-1087",
+  "Name": "Northstar Provisions",
+  "Location": "43 Garden Row, Cedar Park",
+  "Latitude": 45.473738,
+  "Longitude": 9.252959,
+  "VisitFrequency": "Bi-weekly",
+  "RouteId": 7
+ },
+ {
+  "Id": 88,
+  "Code": "MK-1088",
+  "Name": "City Market",
+  "Location": "144 King St, Harbor View",
+  "Latitude": 45.506496,
+  "Longitude": 9.232075,
+  "VisitFrequency": "Weekly",
+  "RouteId": 8
+ },
+ {
+  "Id": 89,
+  "Code": "MK-1089",
+  "Name": "Lantern Deli",
+  "Location": "148 Garden Row, Stonebrook",
+  "Latitude": 45.537596,
+  "Longitude": 9.240957,
+  "VisitFrequency": "Twice weekly",
+  "RouteId": 9
+ },
+ {
+  "Id": 90,
+  "Code": "MK-1090",
+  "Name": "Juniper Deli",
+  "Location": "185 Garden Row, Millbrook",
+  "Latitude": 45.53931,
+  "Longitude": 9.223785,
+  "VisitFrequency": "Weekly",
+  "RouteId": 10
+ },
+ {
+  "Id": 91,
+  "Code": "MK-1091",
+  "Name": "Brightside Deli",
+  "Location": "214 Park Ave, Oakfield",
+  "Latitude": 45.456087,
+  "Longitude": 9.155926,
+  "VisitFrequency": "Twice weekly",
+  "RouteId": 1
+ },
+ {
+  "Id": 92,
+  "Code": "MK-1092",
+  "Name": "Lantern Provisions",
+  "Location": "44 Bridge Rd, Riverside",
+  "Latitude": 45.480593,
+  "Longitude": 9.1313,
+  "VisitFrequency": "Weekly",
+  "RouteId": 2
+ },
+ {
+  "Id": 93,
+  "Code": "MK-1093",
+  "Name": "Copper Kiosk",
+  "Location": "83 Station Rd, Old Quarter",
+  "Latitude": 45.493669,
+  "Longitude": 9.159012,
+  "VisitFrequency": "Weekly",
+  "RouteId": 3
+ },
+ {
+  "Id": 94,
+  "Code": "MK-1094",
+  "Name": "Golden Mini Mart",
+  "Location": "18 Elm St, Hillcrest",
+  "Latitude": 45.536815,
+  "Longitude": 9.147607,
+  "VisitFrequency": "Weekly",
+  "RouteId": 4
+ },
+ {
+  "Id": 95,
+  "Code": "MK-1095",
+  "Name": "Blue Door Pantry",
+  "Location": "80 Mill Lane, Westgate",
+  "Latitude": 45.560916,
+  "Longitude": 9.135715,
+  "VisitFrequency": "Weekly",
+  "RouteId": 5
+ },
+ {
+  "Id": 96,
+  "Code": "MK-1096",
+  "Name": "Maple Supermarket",
+  "Location": "93 King St, Lakeside",
+  "Latitude": 45.450662,
+  "Longitude": 9.233077,
+  "VisitFrequency": "Weekly",
+  "RouteId": 6
+ },
+ {
+  "Id": 97,
+  "Code": "MK-1097",
+  "Name": "Golden Provisions",
+  "Location": "106 Orchard Way, Cedar Park",
+  "Latitude": 45.485347,
+  "Longitude": 9.225148,
+  "VisitFrequency": "Bi-weekly",
+  "RouteId": 7
+ },
+ {
+  "Id": 98,
+  "Code": "MK-1098",
+  "Name": "Northstar Mini Mart",
+  "Location": "215 Station Rd, Harbor View",
+  "Latitude": 45.502485,
+  "Longitude": 9.221831,
+  "VisitFrequency": "Twice weekly",
+  "RouteId": 8
+ },
+ {
+  "Id": 99,
+  "Code": "MK-1099",
+  "Name": "Juniper Provisions",
+  "Location": "89 King St, Stonebrook",
+  "Latitude": 45.533204,
+  "Longitude": 9.237624,
+  "VisitFrequency": "Weekly",
+  "RouteId": 9
+ },
+ {
+  "Id": 100,
+  "Code": "MK-1100",
+  "Name": "Green Mini Mart",
+  "Location": "228 Canal Walk, Millbrook",
+  "Latitude": 45.538217,
+  "Longitude": 9.22179,
+  "VisitFrequency": "Weekly",
+  "RouteId": 10
+ },
+ {
+  "Id": 101,
+  "Code": "MK-1101",
+  "Name": "Corner Corner Shop",
+  "Location": "126 High St, Oakfield",
+  "Latitude": 45.469859,
+  "Longitude": 9.147293,
+  "VisitFrequency": "Bi-weekly",
+  "RouteId": 1
+ },
+ {
+  "Id": 102,
+  "Code": "MK-1102",
+  "Name": "Harbor Grocers",
+  "Location": "97 Garden Row, Riverside",
+  "Latitude": 45.485816,
+  "Longitude": 9.128709,
+  "VisitFrequency": "Weekly",
+  "RouteId": 2
+ },
+ {
+  "Id": 103,
+  "Code": "MK-1103",
+  "Name": "Corner Supermarket",
+  "Location": "119 Elm St, Old Quarter",
+  "Latitude": 45.499614,
+  "Longitude": 9.140255,
+  "VisitFrequency": "Twice weekly",
+  "RouteId": 3
+ },
+ {
+  "Id": 104,
+  "Code": "MK-1104",
+  "Name": "Northstar Grocers",
+  "Location": "212 King St, Hillcrest",
+  "Latitude": 45.52562,
+  "Longitude": 9.158215,
+  "VisitFrequency": "Weekly",
+  "RouteId": 4
+ },
+ {
+  "Id": 105,
+  "Code": "MK-1105",
+  "Name": "City Deli",
+  "Location": "213 Park Ave, Westgate",
+  "Latitude": 45.553718,
+  "Longitude": 9.151239,
+  "VisitFrequency": "Weekly",
+  "RouteId": 5
+ },
+ {
+  "Id": 106,
+  "Code": "MK-1106",
+  "Name": "Green Deli",
+  "Location": "231 Station Rd, Lakeside",
+  "Latitude": 45.466111,
+  "Longitude": 9.226936,
+  "VisitFrequency": "Weekly",
+  "RouteId": 6
+ },
+ {
+  "Id": 107,
+  "Code": "MK-1107",
+  "Name": "Maple Kiosk",
+  "Location": "146 Mill Lane, Cedar Park",
+  "Latitude": 45.48923,
+  "Longitude": 9.226787,
+  "VisitFrequency": "Weekly",
+  "RouteId": 7
+ },
+ {
+  "Id": 108,
+  "Code": "MK-1108",
+  "Name": "Fresh Mini Mart",
+  "Location": "39 Garden Row, Harbor View",
+  "Latitude": 45.496183,
+  "Longitude": 9.235498,
+  "VisitFrequency": "Bi-weekly",
+  "RouteId": 8
+ },
+ {
+  "Id": 109,
+  "Code": "MK-1109",
+  "Name": "Meadow Mini Mart",
+  "Location": "70 Park Ave, Stonebrook",
+  "Latitude": 45.536547,
+  "Longitude": 9.227667,
+  "VisitFrequency": "Weekly",
+  "RouteId": 9
+ },
+ {
+  "Id": 110,
+  "Code": "MK-1110",
+  "Name": "Sunrise Supermarket",
+  "Location": "10 Station Rd, Millbrook",
+  "Latitude": 45.538048,
+  "Longitude": 9.221514,
+  "VisitFrequency": "Weekly",
+  "RouteId": 10
+ },
+ {
+  "Id": 111,
+  "Code": "MK-1111",
+  "Name": "Willow Provisions",
+  "Location": "26 King St, Oakfield",
+  "Latitude": 45.471864,
+  "Longitude": 9.151851,
+  "VisitFrequency": "Weekly",
+  "RouteId": 1
+ },
+ {
+  "Id": 112,
+  "Code": "MK-1112",
+  "Name": "Blue Door Provisions",
+  "Location": "124 Orchard Way, Riverside",
+  "Latitude": 45.479249,
+  "Longitude": 9.145614,
+  "VisitFrequency": "Twice weekly",
+  "RouteId": 2
+ },
+ {
+  "Id": 113,
+  "Code": "MK-1113",
+  "Name": "Family Mini Mart",
+  "Location": "194 Garden Row, Old Quarter",
+  "Latitude": 45.507089,
+  "Longitude": 9.141504,
+  "VisitFrequency": "Twice weekly",
+  "RouteId": 3
+ },
+ {
+  "Id": 114,
+  "Code": "MK-1114",
+  "Name": "Daily Corner Shop",
+  "Location": "143 Orchard Way, Hillcrest",
+  "Latitude": 45.535592,
+  "Longitude": 9.156352,
+  "VisitFrequency": "Weekly",
+  "RouteId": 4
+ },
+ {
+  "Id": 115,
+  "Code": "MK-1115",
+  "Name": "Lantern Corner Shop",
+  "Location": "154 High St, Westgate",
+  "Latitude": 45.538742,
+  "Longitude": 9.149876,
+  "VisitFrequency": "Weekly",
+  "RouteId": 5
+ },
+ {
+  "Id": 116,
+  "Code": "MK-1116",
+  "Name": "Copper Supermarket",
+  "Location": "62 Garden Row, Lakeside",
+  "Latitude": 45.458305,
+  "Longitude": 9.243944,
+  "VisitFrequency": "Weekly",
+  "RouteId": 6
+ },
+ {
+  "Id": 117,
+  "Code": "MK-1117",
+  "Name": "Golden Supermarket",
+  "Location": "43 Bridge Rd, Cedar Park",
+  "Latitude": 45.476356,
+  "Longitude": 9.238596,
+  "VisitFrequency": "Weekly",
+  "RouteId": 7
+ },
+ {
+  "Id": 118,
+  "Code": "MK-1118",
+  "Name": "Sunrise Grocers",
+  "Location": "188 Bridge Rd, Harbor View",
+  "Latitude": 45.513095,
+  "Longitude": 9.23898,
+  "VisitFrequency": "Weekly",
+  "RouteId": 8
+ },
+ {
+  "Id": 119,
+  "Code": "MK-1119",
+  "Name": "Fresh Grocers",
+  "Location": "68 Park Ave, Stonebrook",
+  "Latitude": 45.535764,
+  "Longitude": 9.229962,
+  "VisitFrequency": "Weekly",
+  "RouteId": 9
+ },
+ {
+  "Id": 120,
+  "Code": "MK-1120",
+  "Name": "Fresh Deli",
+  "Location": "13 Canal Walk, Millbrook",
+  "Latitude": 45.557978,
+  "Longitude": 9.229767,
+  "VisitFrequency": "Bi-weekly",
+  "RouteId": 10
+ }
+]

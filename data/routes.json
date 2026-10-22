@@ -1,0 +1,72 @@
+[
+ {
+  "Id": 1,
+  "Code": "RT-101",
+  "Name": "North Loop",
+  "Description": "Traditional-trade outlets around Oakfield.",
+  "CreatedByManagerId": 1
+ },
+ {
+  "Id": 2,
+  "Code": "RT-102",
+  "Name": "River Run",
+  "Description": "Traditional-trade outlets around Riverside.",
+  "CreatedByManagerId": 1
+ },
+ {
+  "Id": 3,
+  "Code": "RT-103",
+  "Name": "Old Quarter Circuit",
+  "Description": "Traditional-trade outlets around Old Quarter.",
+  "CreatedByManagerId": 1
+ },
+ {
+  "Id": 4,
+  "Code": "RT-104",
+  "Name": "Hillcrest Ridge",
+  "Description": "Traditional-trade outlets around Hillcrest.",
+  "CreatedByManagerId": 1
+ },
+ {
+  "Id": 5,
+  "Code": "RT-105",
+  "Name": "Westgate Line",
+  "Description": "Traditional-trade outlets around Westgate.",
+  "CreatedByManagerId": 1
+ },
+ {
+  "Id": 6,
+  "Code": "RT-106",
+  "Name": "Lakeside Arc",
+  "Description": "Traditional-trade outlets around Lakeside.",
+  "CreatedByManagerId": 1
+ },
+ {
+  "Id": 7,
+  "Code": "RT-107",
+  "Name": "Cedar Park Ring",
+  "Description": "Traditional-trade outlets around Cedar Park.",
+  "CreatedByManagerId": 2
+ },
+ {
+  "Id": 8,
+  "Code": "RT-108",
+  "Name": "Harbor Strip",
+  "Description": "Traditional-trade outlets around Harbor View.",
+  "CreatedByManagerId": 2
+ },
+ {
+  "Id": 9,
+  "Code": "RT-109",
+  "Name": "Stonebrook Spur",
+  "Description": "Traditional-trade outlets around Stonebrook.",
+  "CreatedByManagerId": 2
+ },
+ {
+  "Id": 10,
+  "Code": "RT-110",
+  "Name": "Millbrook Way",
+  "Description": "Traditional-trade outlets around Millbrook.",
+  "CreatedByManagerId": 2
+ }
+]

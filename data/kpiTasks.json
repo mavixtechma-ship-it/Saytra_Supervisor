@@ -1,0 +1,50 @@
+[
+ {
+  "Id": 1,
+  "Title": "Shelf-share check",
+  "Description": "Count facings vs. competitors on the main shelf.",
+  "CreatedByManagerId": 1
+ },
+ {
+  "Id": 2,
+  "Title": "Planogram compliance",
+  "Description": "Confirm products are placed per the current planogram.",
+  "CreatedByManagerId": 1
+ },
+ {
+  "Id": 3,
+  "Title": "Expiry & freshness audit",
+  "Description": "Check date codes and remove near-expiry stock.",
+  "CreatedByManagerId": 1
+ },
+ {
+  "Id": 4,
+  "Title": "Price-tag verification",
+  "Description": "Verify shelf prices match the recommended price list.",
+  "CreatedByManagerId": 1
+ },
+ {
+  "Id": 5,
+  "Title": "Cooler hygiene",
+  "Description": "Inspect branded cooler cleanliness and temperature.",
+  "CreatedByManagerId": 1
+ },
+ {
+  "Id": 6,
+  "Title": "Promo material placement",
+  "Description": "Install or refresh point-of-sale promo material.",
+  "CreatedByManagerId": 2
+ },
+ {
+  "Id": 7,
+  "Title": "Out-of-stock capture",
+  "Description": "Record SKUs that are out of stock and raise an order.",
+  "CreatedByManagerId": 2
+ },
+ {
+  "Id": 8,
+  "Title": "Owner feedback",
+  "Description": "Log retailer feedback and competitor activity.",
+  "CreatedByManagerId": 2
+ }
+]

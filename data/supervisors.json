@@ -1,0 +1,58 @@
+[
+ {
+  "Id": 1,
+  "Name": "Nadia Farouk",
+  "Email": "nadia.farouk@routewise.example",
+  "PasswordHash": null,
+  "Phone": "+1-555-0110"
+ },
+ {
+  "Id": 2,
+  "Name": "Karim Adel",
+  "Email": "karim.adel@routewise.example",
+  "PasswordHash": null,
+  "Phone": "+1-555-0117"
+ },
+ {
+  "Id": 3,
+  "Name": "Sara Mansour",
+  "Email": "sara.mansour@routewise.example",
+  "PasswordHash": null,
+  "Phone": "+1-555-0124"
+ },
+ {
+  "Id": 4,
+  "Name": "Youssef Nabil",
+  "Email": "youssef.nabil@routewise.example",
+  "PasswordHash": null,
+  "Phone": "+1-555-0131"
+ },
+ {
+  "Id": 5,
+  "Name": "Mona Khalil",
+  "Email": "mona.khalil@routewise.example",
+  "PasswordHash": null,
+  "Phone": "+1-555-0138"
+ },
+ {
+  "Id": 6,
+  "Name": "Tarek Samir",
+  "Email": "tarek.samir@routewise.example",
+  "PasswordHash": null,
+  "Phone": "+1-555-0145"
+ },
+ {
+  "Id": 7,
+  "Name": "Hana Fathy",
+  "Email": "hana.fathy@routewise.example",
+  "PasswordHash": null,
+  "Phone": "+1-555-0152"
+ },
+ {
+  "Id": 8,
+  "Name": "Ziad Hamdy",
+  "Email": "ziad.hamdy@routewise.example",
+  "PasswordHash": null,
+  "Phone": "+1-555-0159"
+ }
+]
