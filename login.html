@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://cdn.tailwindcss.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'self'">
 <meta name="referrer" content="no-referrer">
+<meta name="author" content="Mavix Tech">
 <title>RouteWise · Sign in</title>
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -17,6 +18,7 @@
 <script src="js/theme.js"></script>
 <script src="js/auth-config.js"></script>
 <script src="js/auth.js"></script>
+<script src="js/owner.js" defer></script>
 <script src="js/login.js" defer></script>
 </head>
 <body class="min-h-screen">
@@ -67,6 +69,15 @@
         <button id="submit" type="submit" class="btn btn-primary w-full">Sign in</button>
       </form>
       <p class="text-xs rw-muted mt-8">Two roles: <strong>admin</strong> (edit plans) and <strong>viewer</strong> (read-only). Sessions end when the tab closes or after 60 minutes.</p>
+
+      <div class="mx-owner mt-8 pt-6 border-t border-base-300">
+        <p class="text-[0.68rem] font-semibold uppercase tracking-[0.14em] rw-muted">Built by</p>
+        <a data-owner-link href="https://mavixtechma-ship-it.github.io/Mavix/" target="_blank" rel="noopener noreferrer" class="mx-owner-logo mt-2 inline-flex rounded-lg" aria-label="Mavix Tech website (opens in a new tab)">
+          <img data-owner-logo="auto" src="assets/mavix/mavix-logo.svg" alt="Mavix Tech" width="122" height="40" class="h-10 w-auto">
+        </a>
+        <p class="text-xs rw-muted mt-2" data-owner="tagline">Systems · Automation · Graduation Projects</p>
+        <a data-owner-link href="https://mavixtechma-ship-it.github.io/Mavix/" target="_blank" rel="noopener noreferrer" class="mx-link text-xs font-semibold mt-1 inline-block">Visit website<span class="sr-only"> (opens in a new tab)</span> &rarr;</a>
+      </div>
     </div>
   </section>
 </main>

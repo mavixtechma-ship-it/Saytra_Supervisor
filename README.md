@@ -28,3 +28,13 @@ There are two roles: `admin` (can edit plans, which are saved in the browser) an
 
 ## Tech
 HTML · vanilla JavaScript (hash routing) · Tailwind CSS · DaisyUI · Chart.js · Leaflet · Mermaid · Content-Security-Policy with SRI-pinned CDNs · PBKDF2-hashed credentials (WebCrypto)
+
+## Developed by Mavix Tech
+
+![Mavix Tech](docs/mavix-logo.png)
+
+**Systems · Automation · Graduation Projects**
+
+Custom business systems, workflow automation and complete graduation projects. ASP.NET, Angular, SQL Server.
+
+Have an idea? Let's build it. → [mavixtechma-ship-it.github.io/Mavix](https://mavixtechma-ship-it.github.io/Mavix/)

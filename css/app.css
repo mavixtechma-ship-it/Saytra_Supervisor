@@ -156,3 +156,15 @@ html.rw-locked body { visibility: hidden; }
 
 /* login */
 .rw-login-art { background: radial-gradient(circle at 20% 15%, rgb(251 191 36 / 0.22), transparent 40%), linear-gradient(150deg, var(--rw-brand-grad-a), var(--rw-brand-grad-b)); color: #F3EEFB; }
+
+/* ---------- owner branding (Mavix Tech) — Mavix palette scoped to these blocks only ---------- */
+.mx-link { color: #1E5EFF; }
+.mx-link:hover { text-decoration: underline; }
+[data-theme="routewise-dark"] .mx-link { color: #38BDF8; }
+.mx-owner-logo:focus-visible, .mx-badge:focus-visible { outline: 2px solid #38BDF8; outline-offset: 3px; }
+.mx-badge { display: flex; align-items: center; gap: 0.6rem; padding: 0.45rem 0.6rem; border-radius: 0.6rem; background: rgb(255 255 255 / 0.06); border: 1px solid rgb(255 255 255 / 0.1); transition: background 0.15s; }
+.mx-badge:hover { background: rgb(255 255 255 / 0.12); }
+.mx-badge-mark { width: 22px; height: 22px; flex-shrink: 0; }
+.mx-about-brand { border: 1px solid oklch(var(--b3)); border-radius: 0.8rem; padding: 1rem; background: linear-gradient(135deg, rgb(30 94 255 / 0.06), rgb(56 189 248 / 0.06)); }
+.mx-cta { background: linear-gradient(135deg, #1E5EFF, #38BDF8); color: #fff; border: 0; }
+.mx-cta:hover { filter: brightness(1.06); color: #fff; }

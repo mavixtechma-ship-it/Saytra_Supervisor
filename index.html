@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://cdn.tailwindcss.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data: https://tile.openstreetmap.org; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'self'">
 <meta name="referrer" content="no-referrer">
+<meta name="author" content="Mavix Tech">
 <title>RouteWise · Journey Plans</title>
 <link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -17,6 +18,7 @@
 <script src="js/theme.js"></script>
 <script src="js/auth-config.js"></script>
 <script src="js/auth.js"></script>
+<script src="js/owner.js" defer></script>
 <script src="js/ui.js" defer></script>
 <script src="js/data.js" defer></script>
 <script src="js/charts.js" defer></script>
@@ -57,6 +59,7 @@
           <ul tabindex="0" class="dropdown-content menu bg-base-100 rounded-box z-40 w-60 p-2 shadow-lg border border-base-300 mt-2">
             <li class="menu-title"><span id="user-name"></span><span id="user-role" class="text-xs font-normal rw-muted"></span></li>
             <li id="reset-item" class="hidden"><button type="button" id="reset-data">Reset demo edits</button></li>
+            <li><button type="button" id="about-open">About</button></li>
             <li><button type="button" id="sign-out">Sign out</button></li>
           </ul>
         </div>
@@ -92,6 +95,10 @@
       </nav>
       <div class="p-4 border-t border-white/10 text-xs text-white/60">
         <p id="side-city"></p>
+        <a data-owner-link href="https://mavixtechma-ship-it.github.io/Mavix/" target="_blank" rel="noopener noreferrer" class="mx-badge mt-3" title="Powered by Mavix Tech" aria-label="Powered by Mavix Tech (opens in a new tab)">
+          <img data-owner-mark="dark" src="assets/mavix/mavix-mark-white.svg" alt="" width="22" height="22" class="mx-badge-mark">
+          <span class="mx-badge-text"><span class="block text-[0.6rem] uppercase tracking-[0.14em] text-white/55">Powered by</span><span class="block text-xs font-bold text-white" data-owner="name">Mavix Tech</span></span>
+        </a>
       </div>
     </aside>
   </div>
